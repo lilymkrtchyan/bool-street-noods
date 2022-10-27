@@ -96,11 +96,11 @@ of this organization as we do not work for or with bool street noods.
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-Meeting minutes.
-Introductions of the team members and official approval of the project.
-Approval of limitations as well as timeline.
-Discussion of client questionnaire as noted above.
-Outlining future meetings to call the client once a week and email mockups of the website.
+- Meeting minutes.
+- Introductions of the team members and official approval of the project
+- Approval of limitations as well as timeline.
+- Discussion of client questionnaire as noted above.
+- Outlining future meetings to call the client once a week and email mockups of the website.
 
 
 ### Client Website (Milestone 1)
