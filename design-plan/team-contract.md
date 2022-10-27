@@ -30,10 +30,18 @@ Your team contract should probably include these elements. Feel free to remove o
 
     **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
 
+    Arya - Main contact/managing contact with the client & keeping meeting minutes
+    Kaylah - Final overlook on design requirements
+    Luis - Final overlook on interactivity requirements
+    Lily - Final overlook on website requirements
+    Guia - Time management of the group
+
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    Each member of the team has agreed to be accountable and transparent about their progress and work. The team will reach decisions about work split up and then it is each team member's responsibility to get their work done before the next team meeting. A large emphasis is on transparency. If a team member feels like they are falling behind and will fail to deliver on the work they have been assigned, they should communicate this well in advance with other team members so that they can get help and stay on top of their deadlines.
+    Each member of the team has agreed to be accountable and transparent about their progress and work.
+    The team will reach decisions about work split up and then it is each team member's responsibility to get their
+     work done before the next team meeting. A large emphasis is on transparency. If a team member feels like they are falling behind and will fail to deliver on the work they have been assigned, they should communicate this well in advance with other team members so that they can get help and stay on top of their deadlines.
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
