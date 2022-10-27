@@ -17,7 +17,16 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
+Our client is Bool Street Noods. They are a student run noodle company that runs
+in Collegetown.
+
+This client meets the client rules as they are a small business that currently operate
+with a wix website that is not really used by the company as they mostly function through
+social media platforms. They have informed us that they would like a website that relays
+information to students and customers and also understand the limitations of this project
+in terms of including non-static elements. Furthermore, none of the team members are part
+of this organization as we do not work for or with bool street noods.
+
 
 
 ### Client Questionnaire (Milestone 1)
@@ -26,41 +35,72 @@ TODO: who is your client?
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
+    We are a noodle company based in collegetown and are open one day a week.
+    We make hot oil-seared biang biang noodles that are sold at affordable prices
+    to students at Cornell. Our goal is to provide cheap and tasty food to all
+    college students.
+
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
+    All our profits go to a different social cause every week.
+    We have donated over 2000 dollars so far to Operation Hope,
+    the Breast Cancer Research Foundation and more. Additionally, as
+    we are student run we hope to form and leverage a close knit community
+    on the Cornell campus.
+
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
+    We currently operate solely through social media platforms like instagram as
+    our website is hosted on wix and is not really usable or updated. We would like
+    to build a website so that it reflects our updated information for students to
+    access to find out about our company.
+
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    TODO: take notes of your client's response
+    I think the intended audience of our website is the students who buy our noodles
+    every week. They are the ones that keep our business running so I would assume
+    it is for them!
+
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    TODO: take notes of your client's response
+    I want them to get information about when we are open during the week, when
+    they can put orders in, where they should come to pick up their food and
+    finally, where our profits are going for the week.
 
 6. What are your goals for this site?
 
-    TODO: take notes of your client's response
+    I think my goal for the website is to make it a tool to propagate bool
+    street noods’ mission and also make the information about orders more
+    accessible to all our customers.
+
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO: take notes of your client's response
+    Since our company colors are red, yellow and white, I would like the website to
+    reflect this. However, we want to stay with a clean feel by keeping the overall
+    site modern with media and some inclusion of the company colors.
+
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
-    TODO: take notes of your client's response
+    1. [Four Seasons Ithaca](https://www.ithacatogo.com/r/1417/restaurants/delivery/Korean/Four-Seasons-Ithaca)
+    2. [Oishii Bowl](https://www.oishiibowl.com/)
+    3. [Gangnam Station Ithaca](https://www.gangnamstationithacany.com/)
+
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+Meeting minutes.
+Introductions of the team members and official approval of the project.
+Approval of limitations as well as timeline.
+Discussion of client questionnaire as noted above.
+Outlining future meetings to call the client once a week and email mockups of the website.
 
 
 ### Client Website (Milestone 1)
@@ -69,7 +109,18 @@ TODO: notes/minutes from your first client meeting
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+[Current Client Bool Street Noods Website](https://boolstreetnoods.wixsite.com/website)
+
+![Current Bool Street Noods Website](boolstreetnoods1.png)
+![Current Bool Street Noods Website](boolstreetnoods2.png)
+![Current Bool Street Noods Website](boolstreetnoods3.png)
+
+
+The client wants a company informational website where students and customers can go
+to find necessary information about the website. This would entail information about
+the food the client serves, the days and hours of operation, background about the
+founders and the team, and information about the organizations they donate their
+profits to along with other special events.
 
 
 ### Client Goals (Milestone 1)
@@ -77,10 +128,13 @@ TODO: tell us about the website you intend to design and build
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+- Goal 1: To introduce customers to the company
+- Goal 2: To provide customers with information about the dishes they serve
+- Goal 3: To provide a background profile about the founders of the company
+- Goal 4: To inform students about hours of operation and the pickup location of the orders
+- Goal 5: To show customers all the organizations that the proceeds would be going to week by week
+- Goal 6: To inform people about Special events and partnerships
+
 
 
 ### Client Website Scope (Milestone 1)
@@ -89,7 +143,14 @@ TODO: tell us about the website you intend to design and build
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
+Our proposed website is the right “size” for this project as the client is a small
+business that currently is only operating through social media platforms and thus
+is not a business or organization that will contain a multitude of information that
+will make the website beyond the scope of this project. On the flip side, our proposed
+website is not too small either as there is just enough information for several pages
+of content to be created for the small business and have a lot of content they still
+wish to convey to users/customers as they are beginning to establish their online
+presence.
 
 
 ## Plan/Schedule (Milestone 1)
@@ -99,7 +160,34 @@ TODO: explain how your proposed website is the right "size" for this project: no
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+- User Research: 10/30
+  - Assign roles
+- Example Sites: 10/30
+- Designing website: 10/30
+  - Group meeting/zoom/etc
+  - Cardsorting
+  - Navigation
+  - Visual Design
+  - Interactivity planning
+  - Sketches of wide and narrow
+- Client Meeting 2: 10/31/22
+  - Feedback on final sketches
+- Draft Website HTML: 11/8/22
+  - HTML finished and content gathered
+  - Some responsivity
+  - Some interactivity
+- Milestone 2: 11/16
+- Finish Draft Website: 11/21
+  - Responsivity functional
+  - Interactivity functional
+- User Tests: 11/23/22
+  - 5 people
+  - Assign roles
+- Revisions: 11/25/22
+- Review: 11/26/22
+- Client Meeting 3: 11/27/22
+- Final Submission: 11/30
+
 
 
 ## Understanding Users (Milestone 2)

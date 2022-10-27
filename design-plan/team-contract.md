@@ -30,7 +30,6 @@ Your team contract should probably include these elements. Feel free to remove o
 
     **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
 
-    TODO: discuss and document here
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
@@ -50,7 +49,6 @@ Your team contract should probably include these elements. Feel free to remove o
 
     On completion and submission of the final project, the team will go to the dairy bar at Cornell and get ice cream!
 
-TODO: what else belongs in your team's contract?
 
 ## Using your Contract
 
