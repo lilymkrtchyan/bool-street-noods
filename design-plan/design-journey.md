@@ -295,7 +295,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <[TODO: website url](https://www.oishiibowl.com/)>
+1. <[website url](https://www.oishiibowl.com/)>
 
     ![Oishii restaurant website in narrow format](oishi-narrow.png)
 
@@ -303,15 +303,15 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 2. <[website url](https://www.maru-ramen.com/)>
 
-    ![Maru Ramen narrow screen](design-plan/maruRamennarrow.PNG)
+    ![Maru Ramen narrow screen](maruRamennarrow.PNG)
 
-    ![Maru Ramen wide screen](design-plan/maruRamen.PNG)
+    ![Maru Ramen wide screen](maruRamen.PNG)
 
-3. <TODO: website url>
+3. <[website url](https://www.gangnamstationithacany.com/)>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![GangnamStation narrow screen](gangna_narrow.PNG)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![GangnamStation wide screen](gangnam_wide.PNG)
 
 
 ### Example Website 1 Review (Milestone 2)
@@ -334,7 +334,9 @@ The main difference between the wide screen and the narrow screen is the navigat
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+website reflection/critique:
+
+The wide and narrow screens for the GangnamStation do not differ much/ The only slight difference is the navigation bar. The navigation bar for the wide screen is on the right top corner of the screen. For the narrow version of the website, the navigation bar becomes a hamburger menu.
 
 
 ## Content Planning (Milestone 2)
