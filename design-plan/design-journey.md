@@ -427,6 +427,10 @@ TODO: explain why the pages name make sense to the audience.
 
 TODO: theme ideas, rationale, and final theme
 
+Theme Idea 1: Minimalistic Design
+In this idea for the website theme, we would be utilizing black, white, and red colors for the website since those are some of the colors used in the Bool Street Noods logo. At the same time, this combination of colors wouldn't be too overbearing and would help with the minimalistic look. In addition to the color scheme, the font would be a simple soft and rounded font that doesn't look too bold. Overall this theme is appropriate for the audience because it helps to draw attention to the content that really matters such as the dishes and their prices rather than the aesthetic of the website.
+
+Theme Idea 2:
 
 ## Design (Milestone 2)
 
