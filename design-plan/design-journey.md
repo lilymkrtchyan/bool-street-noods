@@ -285,7 +285,6 @@ TODO: add as many goals as needed
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
 
 
 ## Website Design Exploration (Milestone 2)
@@ -296,11 +295,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <[TODO: website url](https://www.oishiibowl.com/)>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Oishii restaurant website in narrow format](oishi-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Oishii restaurant website in wide format](oishi-wide.png)
 
 2. <TODO: website url>
 
@@ -319,7 +318,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+In both the narrow and the wide formatting of the Oishii restaurant website, the food options are divided by rice dishes, noodle dishes, salads, appetizers, drinks, desserts, and sauces. In each section, they have the different entries, which include the name of the dish, the ingredients in each respective dish, the price of it, and an image of each of the dishes next to the information. Although each type of offering has their own dedicated section, they are all still contained on one page; clicking the different navigation elements just brings you to a different part of the page.
 
 
 ### Example Website 2 Review (Milestone 2)
