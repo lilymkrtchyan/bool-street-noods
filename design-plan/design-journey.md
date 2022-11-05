@@ -345,17 +345,17 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
-
+- Basic information
+- Dish names
+- Food prices
+- Allergy information for food
+- Images of each dish
+- Ordering/contact information
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
 TODO: justify your content decisions
-
 
 ## Information Architecture (Milestone 2)
 
