@@ -205,11 +205,15 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. How often do you eat out?
 
-3. TODO: add your own question
+3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
 
-4. TODO: add your own question
+4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
 
 ...
 
