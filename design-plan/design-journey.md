@@ -252,6 +252,22 @@ TODO: copy interview questions
 TODO: take notes inline with questions
 
 
+**Interviewee 4:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+**Interviewee 5:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
 TODO: add additional interviewees as needed
 
 
@@ -285,7 +301,7 @@ TODO: add as many goals as needed
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-
+The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students.
 
 ## Website Design Exploration (Milestone 2)
 
@@ -383,10 +399,11 @@ TODO: why does this organization make sense for your audience (not you)?
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- About
+- Menu
+- Ordering information
+- Charities
 
 > Explain why the names of these pages make sense for your site's audience.
 
