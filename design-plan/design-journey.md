@@ -302,11 +302,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![TODO: wide screenshot description](TODO: wide screenshot path)
 
-2. <TODO: website url>
+2. <[website url](https://www.maru-ramen.com/)>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Maru Ramen narrow screen](design-plan/maruRamennarrow.PNG)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Maru Ramen wide screen](design-plan/maruRamen.PNG)
 
 3. <TODO: website url>
 
@@ -326,7 +326,9 @@ TODO: website reflection/critique
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+website reflection/critique:
+
+The main difference between the wide screen and the narrow screen is the navigation bar. In the wide screen, the navigation bar is on the top, with "Order Deivery", "Pickup Order", and "Home" pages being on the left side of the website name "Maru Ramen", and "About Us", "Gallery", "Menu Items", and "Gift Cards" being on the right of the website name. When the screen size changes from wide screen to a narrow screen the navigation bar ecomes a hamburger menu. And when clicked, the hamburger menu opens the navigation bar vertically, taking the whole screen size. Other than the navigation bar, the background image sizes also adjust to be responsibe.
 
 
 ### Example Website 3 Review (Milestone 2)
