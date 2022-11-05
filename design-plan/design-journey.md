@@ -347,12 +347,13 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- Basic information
+- Background information
+- Contact information
 - Dish names
 - Food prices
 - Allergy information for food
 - Images of each dish
-- Ordering/contact information
+- Ordering information
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
