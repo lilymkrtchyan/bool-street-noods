@@ -357,7 +357,19 @@ Plan your site's content.
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+justify your content decisions:
+
+Basic information: address, operating hours for people to know when they cnan order and where to pick up their orders.
+
+Dish Names: dish names are going to be in the menu so when the user looks at the menu they know what are the available options to order.
+
+food prices: users usually check the menu prices before they order from the restaurant. Including prices ensures that when the user looks for them they can find them.
+
+allergy information for the food: this piece of content is for people with allergies to ensure that they know what's in the food and to avoid potential health issues.
+
+images of each dish: this is important because if the user doesn't recognize the name of the dish they will be looking for the images to understand whether or not they want to order the food. International students especailly look at the food pictures.
+
+ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to aet their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
 
 ## Information Architecture (Milestone 2)
 
