@@ -414,12 +414,18 @@ TODO: why does this organization make sense for your audience (not you)?
 - Home
 - About
 - Menu
-- Ordering information
+- Pick-up
 - Charities
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+explain why the pages name make sense to the audience:
+
+Home page is a common practice in web design. The user familiar to the user, hence it makes sense to have the first page with the common information to be named "home".
+About page is also intuitive and self-explanatory for the user to excpect what they will be seeing on it, as the "About" page always contains information about the company's history and funders/staff.
+Menu page and name make sense because people usually refer to the restaurant's website to find their offerings and prices, and the menu is what is associated with those. People know that they will find all the food offerings and their prices when they click on the "menu" in the navigation bar.
+Pick-up page will contain the information about ordering the food and the pick-up information. The users who enter the website with the purpose of ordering a pick-up food would immediately recognize which page to choose fro the navigation bar.
+The "Charities" page contains information about the charities that this restaurant donates to. The user, when they see the "charities" page on the navigation bar, would know from the name that the page is about the charities that the restaurant donates to. The fact that the website has a separate page for the charities would mean that they give a huge important to that, and seeing that, users, in this case, university students, might be more interested in ordering from.
 
 
 ## Visual Theme (Milestone 2)
