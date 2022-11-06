@@ -230,10 +230,33 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+tell us a bit about your participant:
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+My participant is Andres Aradillaz-Fernandes. He is a student at Cornell University, double majoring in Mathematics and Economics.
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+  Sophomore, double majoring in Mathematics and Economics. Plays jazz piano.
+
+2. How often do you eat out?
+
+  Probably 5 times a week.
+
+3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
+
+  Did not use the restaurant website.
+
+4. What was the first type of food (appetizers, entree, dessert, etc.) you ordered the last time you went to a restaurant?
+
+  An entree
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+
+  Never because doesn't trust that the restaurants have their websites up-to-down.
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
+
+   It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
 
 
 **Interviewee 2:**
