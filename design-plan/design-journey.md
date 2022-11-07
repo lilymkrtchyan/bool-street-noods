@@ -230,7 +230,7 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-tell us a bit about your participant:
+Tell us a bit about your participant:
 
 My participant is Andres Aradillaz-Fernandes. He is a student at Cornell University, double majoring in Mathematics and Economics.
 
@@ -261,11 +261,35 @@ My participant is Andres Aradillaz-Fernandes. He is a student at Cornell Univers
 
 **Interviewee 2:**
 
-TODO: tell us a bit about your participant
+My participant is Alsa Khan. She is a student at Cornell University majoring in Human Development.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
+  Sophomore majoring in Human Development and planning to transfer into Information Science.
+
+2. How often do you eat out?
+
+  They eat out around 3 times a week.
+
+3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
+
+  The last time they went to a restaurant, they did not use the restaurant website as they were already familiar with the restaurant.
+
+4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
+
+   They ordered an entree first the last time they went to a restaurant.
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+
+   They refer back to the store hours on the website often as they feel unsure of if they remember the store hours exactly from their memory.
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
+
+   They find that the images greately affect their food choices especially when they are going to a new restaurant or if a different type of cuisine than they are already very familiar with is being offered at the restaurant.
+
+7. What haven't I asked you today that you think would be valuable for me to know?
+
+   They do like to view restaurant websites when they are deciding whether or not to go to a restuarant or if they are gonig to a restaurant for the first time.
 
 **Interviewee 3:**
 
@@ -282,21 +306,6 @@ TODO: tell us a bit about your participant
 TODO: copy interview questions
 TODO: take notes inline with questions
 
-
-**Interviewee 5:**
-
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-**Interviewee 4:**
-
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
 
 **Interviewee 5:**
 
