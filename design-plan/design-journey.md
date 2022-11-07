@@ -261,6 +261,8 @@ My participant is Andres Aradillaz-Fernandes. He is a student at Cornell Univers
 
 **Interviewee 2:**
 
+Tell us a bit about your participant:
+
 My participant is Alsa Khan. She is a student at Cornell University majoring in Human Development.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
