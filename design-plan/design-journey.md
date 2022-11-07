@@ -205,11 +205,15 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. How often do you eat out?
 
-3. TODO: add your own question
+3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
 
-4. TODO: add your own question
+4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
 
 ...
 
@@ -226,10 +230,33 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+tell us a bit about your participant:
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+My participant is Andres Aradillaz-Fernandes. He is a student at Cornell University, double majoring in Mathematics and Economics.
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+  Sophomore, double majoring in Mathematics and Economics. Plays jazz piano.
+
+2. How often do you eat out?
+
+  Probably 5 times a week.
+
+3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
+
+  Did not use the restaurant website.
+
+4. What was the first type of food (appetizers, entree, dessert, etc.) you ordered the last time you went to a restaurant?
+
+  An entree
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+
+  Never because doesn't trust that the restaurants have their websites up-to-down.
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
+
+   It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
 
 
 **Interviewee 2:**
@@ -241,6 +268,22 @@ TODO: take notes inline with questions
 
 
 **Interviewee 3:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+**Interviewee 4:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+**Interviewee 5:**
 
 TODO: tell us a bit about your participant
 
@@ -293,8 +336,7 @@ TODO: add as many goals as needed
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
-
+The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students.
 
 ## Website Design Exploration (Milestone 2)
 
@@ -304,44 +346,48 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <[website url](https://www.oishiibowl.com/)>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Oishii restaurant website in narrow format](oishi-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Oishii restaurant website in wide format](oishi-wide.png)
 
-2. <TODO: website url>
+2. <[website url](https://www.maru-ramen.com/)>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Maru Ramen narrow screen](maruRamennarrow.PNG)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Maru Ramen wide screen](maruRamen.PNG)
 
-3. <TODO: website url>
+3. <[website url](https://www.gangnamstationithacany.com/)>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![GangnamStation narrow screen](gangna_narrow.PNG)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![GangnamStation wide screen](gangnam_wide.PNG)
 
 
 ### Example Website 1 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+In both the narrow and the wide formatting of the Oishii restaurant website, the food options are divided by rice dishes, noodle dishes, salads, appetizers, drinks, desserts, and sauces. In each section, they have the different entries, which include the name of the dish, the ingredients in each respective dish, the price of it, and an image of each of the dishes next to the information. Although each type of offering has their own dedicated section, they are all still contained on one page; clicking the different navigation elements just brings you to a different part of the page.
 
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+website reflection/critique:
+
+The main difference between the wide screen and the narrow screen is the navigation bar. In the wide screen, the navigation bar is on the top, with "Order Deivery", "Pickup Order", and "Home" pages being on the left side of the website name "Maru Ramen", and "About Us", "Gallery", "Menu Items", and "Gift Cards" being on the right of the website name. When the screen size changes from wide screen to a narrow screen the navigation bar ecomes a hamburger menu. And when clicked, the hamburger menu opens the navigation bar vertically, taking the whole screen size. Other than the navigation bar, the background image sizes also adjust to be responsibe.
 
 
 ### Example Website 3 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+website reflection/critique:
+
+The wide and narrow screens for the GangnamStation do not differ much/ The only slight difference is the navigation bar. The navigation bar for the wide screen is on the right top corner of the screen. For the narrow version of the website, the navigation bar becomes a hamburger menu.
 
 
 ## Content Planning (Milestone 2)
@@ -352,17 +398,30 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
-
+- Background information
+- Contact information
+- Dish names
+- Food prices
+- Allergy information for food
+- Images of each dish
+- Ordering information
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+justify your content decisions:
 
+Basic information: address, operating hours for people to know when they cnan order and where to pick up their orders.
+
+Dish Names: dish names are going to be in the menu so when the user looks at the menu they know what are the available options to order.
+
+food prices: users usually check the menu prices before they order from the restaurant. Including prices ensures that when the user looks for them they can find them.
+
+allergy information for the food: this piece of content is for people with allergies to ensure that they know what's in the food and to avoid potential health issues.
+
+images of each dish: this is important because if the user doesn't recognize the name of the dish they will be looking for the images to understand whether or not they want to order the food. International students especailly look at the food pictures.
+
+ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to aet their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
 
 ## Information Architecture (Milestone 2)
 
@@ -387,20 +446,33 @@ TODO: why does this organization make sense for your audience (not you)?
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- About
+- Menu
+- Pick-up
+- Charities
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+explain why the pages name make sense to the audience:
+
+Home page is a common practice in web design. The user familiar to the user, hence it makes sense to have the first page with the common information to be named "home".
+About page is also intuitive and self-explanatory for the user to excpect what they will be seeing on it, as the "About" page always contains information about the company's history and funders/staff.
+Menu page and name make sense because people usually refer to the restaurant's website to find their offerings and prices, and the menu is what is associated with those. People know that they will find all the food offerings and their prices when they click on the "menu" in the navigation bar.
+Pick-up page will contain the information about ordering the food and the pick-up information. The users who enter the website with the purpose of ordering a pick-up food would immediately recognize which page to choose fro the navigation bar.
+The "Charities" page contains information about the charities that this restaurant donates to. The user, when they see the "charities" page on the navigation bar, would know from the name that the page is about the charities that the restaurant donates to. The fact that the website has a separate page for the charities would mean that they give a huge important to that, and seeing that, users, in this case, university students, might be more interested in ordering from.
 
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
 TODO: theme ideas, rationale, and final theme
+
+Theme Idea 1: Minimalistic Design
+In this idea for the website theme, we would be utilizing black, white, and red colors for the website since those are some of the colors used in the Bool Street Noods logo. At the same time, this combination of colors wouldn't be too overbearing and would help with the minimalistic look. In addition to the color scheme, the font would be a simple soft and rounded font that doesn't look too bold. Overall this theme is appropriate for the audience because it helps to draw attention to the content that really matters such as the dishes and their prices rather than the aesthetic of the website.
+
+Theme Idea 2: Fast food/ street food
+In this idea for the website theme, we would be using the most attrackting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
 
 
 ## Design (Milestone 2)
@@ -412,8 +484,8 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
+- interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
+- interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
 - TODO: ...
 
 
