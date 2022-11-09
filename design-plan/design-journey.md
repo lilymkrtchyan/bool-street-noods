@@ -320,7 +320,6 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 7. What haven't I asked you today that you think would be valuable for me to know?
     He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
-
 **Interviewee 4:**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
@@ -360,26 +359,28 @@ TODO: take notes inline with questions
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: To find out what dishes are being sold
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - TODO: design ideas
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 2: TODO: brief title
+Goal 2: To find out the timings and location
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - TODO: design ideas
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 3: TODO: brief title
+Goal 3: To find out allergens in the dishes
 
 TODO: design ideas and rationale
 
 
 TODO: add as many goals as needed
+
+Goal 4: To get contact information and payment information
 
 
 ### Audience (Milestone 2)
