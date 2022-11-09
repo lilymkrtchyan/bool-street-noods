@@ -301,7 +301,7 @@ They do like to view restaurant websites when they are deciding whether or not t
 
 Tell us a bit about your participant:
 
-My participant is a Cornell Student in their junior year studying math. 
+My participant is a Cornell Student in their junior year studying math.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 Roy majors in math. He is a junior. He's from China.
@@ -435,18 +435,14 @@ In both the narrow and the wide formatting of the Oishii restaurant website, the
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-website reflection/critique:
-
-The main difference between the wide screen and the narrow screen is the navigation bar. In the wide screen, the navigation bar is on the top, with "Order Deivery", "Pickup Order", and "Home" pages being on the left side of the website name "Maru Ramen", and "About Us", "Gallery", "Menu Items", and "Gift Cards" being on the right of the website name. When the screen size changes from wide screen to a narrow screen the navigation bar ecomes a hamburger menu. And when clicked, the hamburger menu opens the navigation bar vertically, taking the whole screen size. Other than the navigation bar, the background image sizes also adjust to be responsibe.
+The main difference between the wide screen and the narrow screen is the navigation bar. In the wide screen, the navigation bar is on the top, with "Order Deivery", "Pickup Order", and "Home" pages being on the left side of the website name "Maru Ramen", and "About Us", "Gallery", "Menu Items", and "Gift Cards" being on the right of the website name. When the screen size changes from wide screen to a narrow screen the navigation bar becomes a hamburger menu. And when clicked, the hamburger menu opens the navigation bar vertically, taking up the whole screen size. Other than the navigation bar, the background image sizes also adjust to be responsive.
 
 
 ### Example Website 3 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-website reflection/critique:
-
-The wide and narrow screens for the GangnamStation do not differ much/ The only slight difference is the navigation bar. The navigation bar for the wide screen is on the right top corner of the screen. For the narrow version of the website, the navigation bar becomes a hamburger menu.
+The wide and narrow screens for the GangnamStation do not differ much. The only slight difference is the navigation bar. The navigation bar for the wide screen is on the right top corner of the screen but for the narrow version of the website, the navigation bar becomes a hamburger menu.
 
 
 ## Content Planning (Milestone 2)
