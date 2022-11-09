@@ -477,14 +477,17 @@ The "Charities" page contains information about the charities that this restaura
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
 
 Theme Idea 1: Minimalistic Design
 In this idea for the website theme, we would be utilizing black, white, and red colors for the website since those are some of the colors used in the Bool Street Noods logo. At the same time, this combination of colors wouldn't be too overbearing and would help with the minimalistic look. In addition to the color scheme, the font would be a simple soft and rounded font that doesn't look too bold. Overall this theme is appropriate for the audience because it helps to draw attention to the content that really matters such as the dishes and their prices rather than the aesthetic of the website.
 
 Theme Idea 2: Fast food/ street food
-In this idea for the website theme, we would be using the most attrackting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
+In this idea for the website theme, we would be using the most attracting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
 
+Theme Idea 3:
+
+
+The final theme selected for the website is Theme Idea .
 
 ## Design (Milestone 2)
 
