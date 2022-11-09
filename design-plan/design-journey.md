@@ -296,25 +296,25 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 **Interviewee 3:**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-  Roy majors in math. He is a junior. He's from China.
+    Roy majors in math. He is a junior. He's from China.
 
 2. How often do you eat out?
-  Once a week.
+    Once a week.
 
 3. Refer back to the last time you ordered out. Did you use the restaurant website and if so what was your experience with it?
-  He stayed over the majority of the winter and used UberEats.
+    He stayed over the majority of the winter and used UberEats.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
-  Just entree. He has simple meals.
+    Just entree. He has simple meals.
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
-Pretty often. Around 60-70% of the time he uses the store hours on the website.
+    Pretty often. Around 60-70% of the time he uses the store hours on the website.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
-Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
+    Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
-He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
+    He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
 
 **Interviewee 4:**
