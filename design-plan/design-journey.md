@@ -236,31 +236,31 @@ My participant is Andres Aradillaz-Fernandes. He is a student at Cornell Univers
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-  Sophomore, double majoring in Mathematics and Economics. Plays jazz piano.
+Sophomore, double majoring in Mathematics and Economics. Plays jazz piano.
 
 2. How often do you eat out?
 
-  Probably 5 times a week.
+Probably 5 times a week.
 
 3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
 
-  Did not use the restaurant website.
+Did not use the restaurant website.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) you ordered the last time you went to a restaurant?
 
-  An entree
+An entree
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
 
-  Never because doesn't trust that the restaurants have their websites up-to-down.
+Never because doesn't trust that the restaurants have their websites up-to-down.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
 
-   It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
+It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
 
-   N/A
+N/A
 
 
 **Interviewee 2:**
@@ -271,60 +271,60 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-  Sophomore majoring in Human Development and planning to transfer into Information Science.
+Sophomore majoring in Human Development and planning to transfer into Information Science.
 
 2. How often do you eat out?
 
-  They eat out around 3 times a week.
+They eat out around 3 times a week.
 
 3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
 
-  The last time they went to a restaurant, they did not use the restaurant website as they were already familiar with the restaurant.
+The last time they went to a restaurant, they did not use the restaurant website as they were already familiar with the restaurant.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
 
-   They ordered an entree first the last time they went to a restaurant.
+They ordered an entree first the last time they went to a restaurant.
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
 
-   They refer back to the store hours on the website often as they feel unsure of if they remember the store hours exactly from their memory.
+They refer back to the store hours on the website often as they feel unsure of if they remember the store hours exactly from their memory.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
 
-   They find that the images greately affect their food choices especially when they are going to a new restaurant or if a different type of cuisine than they are already very familiar with is being offered at the restaurant.
+They find that the images greately affect their food choices especially when they are going to a new restaurant or if a different type of cuisine than they are already very familiar with is being offered at the restaurant.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
 
-   They do like to view restaurant websites when they are deciding whether or not to go to a restuarant or if they are gonig to a restaurant for the first time.
+They do like to view restaurant websites when they are deciding whether or not to go to a restuarant or if they are gonig to a restaurant for the first time.
 
 **Interviewee 3:**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-    Roy majors in math. He is a junior. He's from China.
+Roy majors in math. He is a junior. He's from China.
 
 2. How often do you eat out?
-    Once a week.
+Once a week.
 
 3. Refer back to the last time you ordered out. Did you use the restaurant website and if so what was your experience with it?
-    He stayed over the majority of the winter and used UberEats.
+He stayed over the majority of the winter and used UberEats.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
-    Just entree. He has simple meals.
+Just entree. He has simple meals.
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
-    Pretty often. Around 60-70% of the time he uses the store hours on the website.
+Pretty often. Around 60-70% of the time he uses the store hours on the website.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
-    Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
+Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
-    He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
+He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
 **Interviewee 4:**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-He is a sophmore student, majoring in physics and computer science. From california in the bay area.
+He is a sophomore student, majoring in physics and computer science. From california in the bay area.
 
 2. How often do you eat out?
 
