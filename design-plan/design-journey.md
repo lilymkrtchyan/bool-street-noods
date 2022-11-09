@@ -299,6 +299,10 @@ They do like to view restaurant websites when they are deciding whether or not t
 
 **Interviewee 3:**
 
+Tell us a bit about your participant:
+
+My participant is a Cornell Student in their junior year studying math. 
+
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 Roy majors in math. He is a junior. He's from China.
 
@@ -321,6 +325,10 @@ Pretty significantly. English isn't his first language so he goes off of the ima
 He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
 **Interviewee 4:**
+
+Tell us a bit about your participant:
+
+My participant is a Cornell Student in their sophomore yaer, majoring in Physics and Computer Science.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
@@ -472,7 +480,7 @@ allergy information for the food: this piece of content is for people with aller
 
 images of each dish: this is important because if the user doesn't recognize the name of the dish they will be looking for the images to understand whether or not they want to order the food. International students especailly look at the food pictures.
 
-ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to aet their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
+ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to eat their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
 
 ## Information Architecture (Milestone 2)
 
