@@ -258,6 +258,10 @@ My participant is Andres Aradillaz-Fernandes. He is a student at Cornell Univers
 
    It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
 
+7. What haven't I asked you today that you think would be valuable for me to know?
+
+   N/A
+
 
 **Interviewee 2:**
 
