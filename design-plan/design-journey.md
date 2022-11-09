@@ -296,33 +296,52 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 **Interviewee 3:**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-  Roy majors in math. He is a junior. He's from China.
+    Roy majors in math. He is a junior. He's from China.
 
 2. How often do you eat out?
-  Once a week.
+    Once a week.
 
 3. Refer back to the last time you ordered out. Did you use the restaurant website and if so what was your experience with it?
-  He stayed over the majority of the winter and used UberEats.
+    He stayed over the majority of the winter and used UberEats.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
-  Just entree. He has simple meals.
+    Just entree. He has simple meals.
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
-Pretty often. Around 60-70% of the time he uses the store hours on the website.
+    Pretty often. Around 60-70% of the time he uses the store hours on the website.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
-Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
+    Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
-He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
+    He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
 
 **Interviewee 4:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+He is a sophmore student, majoring in physics and computer science. From california in the bay area.
+
+2. How often do you eat out?
+
+The participant eats out once week.
+
+3. Refer back to the last time you ordered out to. Did you use the restaurant website and if so what was your experience with it?
+
+Yes they ordered out from the website. It was pretty smooth, I just llooked at the menu and went in person to pick it up.
+
+4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
+It was pork and egg on rice.
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+Not really, I normally dont each much but when I do, I eat at normal hours.
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
+Yes it does. i feel like what I imagine a dish to be from reading the description is different from what it looks like. A picture is unambiguous and clears doubts.
+
+7. What haven't I asked you today that you think would be valuable for me to know?
+A list of allergens included with the dishes. The last time I ordered out they didnt list allergens.
 
 
 **Interviewee 5:**
@@ -495,14 +514,17 @@ The "Charities" page contains information about the charities that this restaura
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
 
 Theme Idea 1: Minimalistic Design
 In this idea for the website theme, we would be utilizing black, white, and red colors for the website since those are some of the colors used in the Bool Street Noods logo. At the same time, this combination of colors wouldn't be too overbearing and would help with the minimalistic look. In addition to the color scheme, the font would be a simple soft and rounded font that doesn't look too bold. Overall this theme is appropriate for the audience because it helps to draw attention to the content that really matters such as the dishes and their prices rather than the aesthetic of the website.
 
 Theme Idea 2: Fast food/ street food
-In this idea for the website theme, we would be using the most attrackting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
+In this idea for the website theme, we would be using the most attracting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
 
+Theme Idea 3:
+
+
+The final theme selected for the website is Theme Idea .
 
 ## Design (Milestone 2)
 
