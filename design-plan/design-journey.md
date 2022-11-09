@@ -316,7 +316,6 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 7. What haven't I asked you today that you think would be valuable for me to know?
     He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
-
 **Interviewee 4:**
 
 TODO: tell us a bit about your participant
