@@ -540,7 +540,7 @@ Document your site's layout.
 
 - interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
 - interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
-- TODO: ...
+- interactivity idea 3: drop-down items: making it possible to see the entire menu, with the possiblity of pressing on any specific item to view the recipe and image of it.
 
 
 ### Layout Exploration (Milestone 2)
@@ -550,8 +550,14 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+Layout 1: with this first layout we want to have enough space for the logo, navigation and title. This is consistent even in the narrow screen which even though transforms the dropdown in a "hamburger", still keeps it at the top of the page right next to the logo. Moreover, this sketch aims at showing the efficiency of a carausel interactivity to engage the audience.
+![layout1](/design-plan/layout1.jpg)
 
+Layout 2: With this layout we are trying to grasp the audience attention by placing the name of the company over an attractive picture. Above that we have the navigation bar which gives easy access to the user. In the narrow screen, the navigation is also transformed in "hamburger" but in a different location compared to the previous layout.
+![layout2](/design-plan/layout2.jpg)
+
+Layout 3: In this last sketch, in the wide screen part we are trying to provide the user with the most essential information regarding our website without the need to even scroll as the text and carousel are one next to the other. The narrow screen also aims at keeping all information as compact as possible by making the navigation innto an "hamburger" and hiding the carousel.
+![layout3](/design-plan/layout3.jpg)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
