@@ -387,10 +387,10 @@ Goal 3: To find out allergens in the dishes
 
 - rationale: All the allergens are planned to be located in the menu because the user will want to see if the food contains allergens or not right when they are browsing the menu and are about to make an order. It is convinient to have that information in the menu as that way the user will not have decide on a dish, then browse the whole website to see if that dish contains any allergens. In that case, if that dish ends up contaning allergens the user will have to go back to the menu and choose another dish. This process would be long and tidious, hence we decided that it's the best to have this information right in the menu in a form of a paragraph or a list (depending how much information we get from the provider).
 
-
-TODO: add as many goals as needed
-
 Goal 4: To get contact information and payment information
+- design ideas: have a separate page for contact information
+
+- ratiWeonale: having a contact information as a separate page is a common practice that the users can expect to find in any website, including ours. We are planning to provide the phone information, social media information, and any other payment information that the users might need to place an order. This is its own grouping that would make sense for the user to see together in a separate page in a navigation bar.
 
 
 ### Audience (Milestone 2)
