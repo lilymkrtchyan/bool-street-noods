@@ -540,7 +540,7 @@ Document your site's layout.
 
 - interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
 - interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
-- TODO: ...
+- interactivity idea 3: drop-down items: making it possible to see the entire menu, with the possiblity of pressing on any specific item to view the recipe and image of it.
 
 
 ### Layout Exploration (Milestone 2)
