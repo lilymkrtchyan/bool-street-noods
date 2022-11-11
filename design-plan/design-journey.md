@@ -236,31 +236,31 @@ My participant is Andres Aradillaz-Fernandes. He is a student at Cornell Univers
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-Sophomore, double majoring in Mathematics and Economics. Plays jazz piano.
+  Sophomore, double majoring in Mathematics and Economics. Plays jazz piano.
 
 2. How often do you eat out?
 
-Probably 5 times a week.
+  Probably 5 times a week.
 
 3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
 
-Did not use the restaurant website.
+  Did not use the restaurant website.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) you ordered the last time you went to a restaurant?
 
-An entree
+  An entree
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
 
-Never because doesn't trust that the restaurants have their websites up-to-down.
+  Never because doesn't trust that the restaurants have their websites up-to-down.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
 
-It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
+   It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
 
-N/A
+   N/A
 
 
 **Interviewee 2:**
@@ -271,68 +271,60 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-Sophomore majoring in Human Development and planning to transfer into Information Science.
+  Sophomore majoring in Human Development and planning to transfer into Information Science.
 
 2. How often do you eat out?
 
-They eat out around 3 times a week.
+  They eat out around 3 times a week.
 
 3. Refer back to the last time you went to a restaurant. Did you use the restaurant website and if so what was your experience with it?
 
-The last time they went to a restaurant, they did not use the restaurant website as they were already familiar with the restaurant.
+  The last time they went to a restaurant, they did not use the restaurant website as they were already familiar with the restaurant.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
 
-They ordered an entree first the last time they went to a restaurant.
+   They ordered an entree first the last time they went to a restaurant.
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
 
-They refer back to the store hours on the website often as they feel unsure of if they remember the store hours exactly from their memory.
+   They refer back to the store hours on the website often as they feel unsure of if they remember the store hours exactly from their memory.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
 
-They find that the images greately affect their food choices especially when they are going to a new restaurant or if a different type of cuisine than they are already very familiar with is being offered at the restaurant.
+   They find that the images greately affect their food choices especially when they are going to a new restaurant or if a different type of cuisine than they are already very familiar with is being offered at the restaurant.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
 
-They do like to view restaurant websites when they are deciding whether or not to go to a restuarant or if they are gonig to a restaurant for the first time.
+   They do like to view restaurant websites when they are deciding whether or not to go to a restuarant or if they are gonig to a restaurant for the first time.
 
 **Interviewee 3:**
 
-Tell us a bit about your participant:
-
-My participant is a Cornell Student in their junior year studying math.
-
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-Roy majors in math. He is a junior. He's from China.
+    Roy majors in math. He is a junior. He's from China.
 
 2. How often do you eat out?
-Once a week.
+    Once a week.
 
 3. Refer back to the last time you ordered out. Did you use the restaurant website and if so what was your experience with it?
-He stayed over the majority of the winter and used UberEats.
+    He stayed over the majority of the winter and used UberEats.
 
 4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
-Just entree. He has simple meals.
+    Just entree. He has simple meals.
 
 5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
-Pretty often. Around 60-70% of the time he uses the store hours on the website.
+    Pretty often. Around 60-70% of the time he uses the store hours on the website.
 
 6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
-Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
+    Pretty significantly. English isn't his first language so he goes off of the images of the food when he doesn't understand the details of the menu.
 
 7. What haven't I asked you today that you think would be valuable for me to know?
-He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
+    He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
 
 **Interviewee 4:**
 
-Tell us a bit about your participant:
-
-My participant is a Cornell Student in their sophomore yaer, majoring in Physics and Computer Science.
-
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-He is a sophomore student, majoring in physics and computer science. From california in the bay area.
+He is a sophmore student, majoring in physics and computer science. From california in the bay area.
 
 2. How often do you eat out?
 
@@ -480,7 +472,7 @@ allergy information for the food: this piece of content is for people with aller
 
 images of each dish: this is important because if the user doesn't recognize the name of the dish they will be looking for the images to understand whether or not they want to order the food. International students especailly look at the food pictures.
 
-ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to eat their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
+ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to aet their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
 
 ## Information Architecture (Milestone 2)
 
@@ -506,7 +498,7 @@ TODO: why does this organization make sense for your audience (not you)?
 > Please list the pages you will include in your website's navigation.
 
 - Home
-- About Us
+- About
 - Menu
 - Pick-up
 - Charities
@@ -548,7 +540,7 @@ Document your site's layout.
 
 - interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
 - interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
-- interactivity idea 3: drop-down items: making it possible to see the entire menu, with the possiblity of pressing on any specific item to view the recipe and image of it.
+- TODO: ...
 
 
 ### Layout Exploration (Milestone 2)
@@ -558,15 +550,8 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-Layout 1: with this first layout we want to have enough space for the logo, navigation and title. This is consistent even in the narrow screen which even though transforms the dropdown in a "hamburger", still keeps it at the top of the page right next to the logo. Moreover, this sketch aims at showing the efficiency of a carausel interactivity to engage the audience.
-![layout1](/design-plan/layout1.jpg)
+TODO: layout exploration sketches + explanation
 
-
-Layout 2: With this layout we are trying to grasp the audience attention by placing the name of the company over an attractive picture. Above that we have the navigation bar which gives easy access to the user. In the narrow screen, the navigation is also transformed in "hamburger" but in a different location compared to the previous layout.
-![layout2](/design-plan/layout2.jpg)
-
-Layout 3: In this last sketch, in the wide screen part we are trying to provide the user with the most essential information regarding our website without the need to even scroll as the text and carousel are one next to the other. The narrow screen also aims at keeping all information as compact as possible by making the navigation innto an "hamburger" and hiding the carousel.
-![layout3](/design-plan/layout3.jpg)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -606,14 +591,7 @@ is to allow the users to see different food options on the menu easily when they
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-In order to implement the photo carousel:
-Pseudocode:
-```
-when #next-button is clicked:
-    show the next slide
-when #back-button is clicked:
-    show the previous slide
-```
+TODO: interactivity plan
 
 
 ## Client Feedback & Minutes (Milestone 2)
