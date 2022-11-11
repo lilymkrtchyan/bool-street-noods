@@ -588,9 +588,13 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
+Hamburger Menu:
+
+Carousel:
 The purpose of the proposed interactivity of the photo carousel
 is to allow the users to see different food options on the menu easily when they are on the homepage of the website. This allows the users to preview the offered menu on their first glance of the website when deciding whether or not they are interested in the food being offered and it enhances the user experience as they do not need to search deeply in order to find what food is being offered.
 
+Dropdown Menu:
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
