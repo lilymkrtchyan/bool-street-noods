@@ -524,10 +524,12 @@ In this idea for the website theme, we would be utilizing black, white, and red 
 Theme Idea 2: Fast food/ street food
 In this idea for the website theme, we would be using the most attracting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
 
-Theme Idea 3:
+Theme Idea 3: Colorful
+This idea for the website theme still using the theme colors of white, black, and red but focusing more on the red theme color
+than the more minimalistic route of focusing on using white and black. This would still have the vibrancy of being a fast food restaurant without having the colors be too strong and bold for the mood of the company. The audience would still get more of the energetic feelings from Bool Street Noods without feeling like it is a generic looking street food website.
 
 
-The final theme selected for the website is Theme Idea .
+The final theme selected for the website is Theme Idea 1. This is because it is a layout more familiar to the audience and is not too overbearing for the wide variety of users that would be going to the Bool Street Noods website in order to decide if they want to try food from there. 
 
 ## Design (Milestone 2)
 
@@ -601,7 +603,11 @@ Dropdown Menu:
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+Hamburger Menu:
+
+Carousel:
+
+Dropdown Menu:
 
 
 ## Client Feedback & Minutes (Milestone 2)
