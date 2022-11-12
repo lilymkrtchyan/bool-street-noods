@@ -244,6 +244,10 @@ My participant is Andres Aradillaz-Fernandes. He is a student at Cornell Univers
 
    It depends. For him a website of the restaurant either has great pictures and that affects a lot him eating there, or they have no pictures but he ecognizes the color and that makes no difference.
 
+7. What haven't I asked you today that you think would be valuable for me to know?
+
+   N/A
+
 
 **Interviewee 2:**
 
@@ -301,7 +305,6 @@ My participant is Alsa Khan. She is a student at Cornell University majoring in 
 
 7. What haven't I asked you today that you think would be valuable for me to know?
     He doesn't use restaurant websites that often. He usually orders over apps such as UberEats and GrubHub.
-
 
 **Interviewee 4:**
 
@@ -507,10 +510,12 @@ In this idea for the website theme, we would be utilizing black, white, and red 
 Theme Idea 2: Fast food/ street food
 In this idea for the website theme, we would be using the most attracting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
 
-Theme Idea 3:
+Theme Idea 3: Colorful
+This idea for the website theme still using the theme colors of white, black, and red but focusing more on the red theme color
+than the more minimalistic route of focusing on using white and black. This would still have the vibrancy of being a fast food restaurant without having the colors be too strong and bold for the mood of the company. The audience would still get more of the energetic feelings from Bool Street Noods without feeling like it is a generic looking street food website.
 
 
-The final theme selected for the website is Theme Idea .
+The final theme selected for the website is Theme Idea 1. This is because it is a layout more familiar to the audience and is not too overbearing for the wide variety of users that would be going to the Bool Street Noods website in order to decide if they want to try food from there.
 
 ## Design (Milestone 2)
 
@@ -523,7 +528,7 @@ Document your site's layout.
 
 - interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
 - interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
-- TODO: ...
+- interactivity idea 3: drop-down items: making it possible to see the entire menu, with the possiblity of pressing on any specific item to view the recipe and image of it.
 
 
 ### Layout Exploration (Milestone 2)
@@ -533,8 +538,10 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration skeitches + explanation
+TODO: layout exploration sketches + explanation
 
+Layout 3: In this last sketch, in the wide screen part we are trying to provide the user with the most essential information regarding our website without the need to even scroll as the text and carousel are one next to the other. The narrow screen also aims at keeping all information as compact as possible by making the navigation innto an "hamburger" and hiding the carousel.
+![layout3](/design-plan/layout3.jpg)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -565,15 +572,24 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+Hamburger Menu:
 
+Carousel:
+The purpose of the proposed interactivity of the photo carousel
+is to allow the users to see different food options on the menu easily when they are on the homepage of the website. This allows the users to preview the offered menu on their first glance of the website when deciding whether or not they are interested in the food being offered and it enhances the user experience as they do not need to search deeply in order to find what food is being offered.
+
+Dropdown Menu:
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+Hamburger Menu:
+
+Carousel:
+
+Dropdown Menu:
 
 
 ## Client Feedback & Minutes (Milestone 2)
