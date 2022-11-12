@@ -20,13 +20,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 Our client is Bool Street Noods. They are a student run noodle company that runs
 in Collegetown.
 
-This client meets the client rules as they are a small business that currently operate
-with a wix website that is not really used by the company as they mostly function through
-social media platforms. They have informed us that they would like a website that relays
-information to students and customers and also understand the limitations of this project
-in terms of including non-static elements. Furthermore, none of the team members are part
-of this organization as we do not work for or with bool street noods.
-
+This client meets the client rules as they are a small business that currently operate with a wix website that is not really used by the company as they mostly function through social media platforms. They have informed us that they would like a website that relaysinformation to students  and customers and also understand the limitations of this project in terms of including non-static elements. Furthermore, none of the team members are part of this organization as we do not work for or with bool street noods.
 
 
 ### Client Questionnaire (Milestone 1)
@@ -35,19 +29,11 @@ of this organization as we do not work for or with bool street noods.
 
 1. Describe your organization and its purpose.
 
-    We are a noodle company based in collegetown and are open one day a week.
-    We make hot oil-seared biang biang noodles that are sold at affordable prices
-    to students at Cornell. Our goal is to provide cheap and tasty food to all
-    college students.
-
+    We are a noodle company based in collegetown and are open one day a week. We make hot oil-seared biang biang noodles that are sold at affordable prices to students at Cornell. Our goal is to provide cheap and tasty food to all college students.
 
 2. What makes your organization and its services special or unique?
 
-    All our profits go to a different social cause every week.
-    We have donated over 2000 dollars so far to Operation Hope,
-    the Breast Cancer Research Foundation and more. Additionally, as
-    we are student run we hope to form and leverage a close knit community
-    on the Cornell campus.
+    All our profits go to a different social cause every week. We have donated over 2000 dollars so far to Operation Hope, the Breast Cancer Research Foundation and more. Additionally, as we are student run we hope to form and leverage a close knit community on the Cornell campus.
 
 
 3. Why are you looking for a new website or updating your existing site?
@@ -547,7 +533,7 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+TODO: layout exploration skeitches + explanation
 
 
 ### Final Design (Milestone 2)
