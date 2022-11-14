@@ -437,7 +437,6 @@ In both the narrow and the wide formatting of the Oishii restaurant website, the
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-website reflection/critique:
 
 The main difference between the wide screen and the narrow screen is the navigation bar. In the wide screen, the navigation bar is on the top, with "Order Deivery", "Pickup Order", and "Home" pages being on the left side of the website name "Maru Ramen", and "About Us", "Gallery", "Menu Items", and "Gift Cards" being on the right of the website name. When the screen size changes from wide screen to a narrow screen the navigation bar ecomes a hamburger menu. And when clicked, the hamburger menu opens the navigation bar vertically, taking the whole screen size. Other than the navigation bar, the background image sizes also adjust to be responsibe.
 
@@ -445,8 +444,6 @@ The main difference between the wide screen and the narrow screen is the navigat
 ### Example Website 3 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
-
-website reflection/critique:
 
 The wide and narrow screens for the GangnamStation do not differ much/ The only slight difference is the navigation bar. The navigation bar for the wide screen is on the right top corner of the screen. For the narrow version of the website, the navigation bar becomes a hamburger menu.
 
@@ -470,19 +467,18 @@ Plan your site's content.
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-justify your content decisions:
 
-Basic information: address, operating hours for people to know when they cnan order and where to pick up their orders.
+Basic information: The address and operating hours for people to know when they can order and where to pick up their orders.
 
-Dish Names: dish names are going to be in the menu so when the user looks at the menu they know what are the available options to order.
+Dish names: Dish names are going to be in the menu so when the user looks at the menu they know what are the available options to order.
 
-food prices: users usually check the menu prices before they order from the restaurant. Including prices ensures that when the user looks for them they can find them.
+Food prices: Users usually check the menu prices before they order from the restaurant. Including prices ensures that when the user looks for them they can find them.
 
-allergy information for the food: this piece of content is for people with allergies to ensure that they know what's in the food and to avoid potential health issues.
+Allergy information for the food: This piece of content is for people with allergies to ensure that they know what's in the food and to avoid potential health issues.
 
-images of each dish: this is important because if the user doesn't recognize the name of the dish they will be looking for the images to understand whether or not they want to order the food. International students especailly look at the food pictures.
+Images of each dish: This is important because if the user doesn't recognize the name of the dish they will be looking for the images to understand whether or not they want to order the food. International students especailly look at the food pictures.
 
-ordering/contact information: ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to aet their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
+Ordering/contact information: Ordering and contact information is especially necessary because this restaurant does not have a dine in option and everyone who wants to aet their food has to order it to pick up which means that the ordering and contact information has to be very visible to the user and easily accessible.
 
 ## Information Architecture (Milestone 2)
 
@@ -521,7 +517,6 @@ According to user interview and research of common design patterns that align wi
 
 > Explain why the names of these pages make sense for your site's audience.
 
-explain why the pages name make sense to the audience:
 
 Home page is a common practice in web design. The user familiar to the user, hence it makes sense to have the first page with the common information to be named "home".
 About page is also intuitive and self-explanatory for the user to excpect what they will be seeing on it, as the "About" page always contains information about the company's history and funders/staff.
