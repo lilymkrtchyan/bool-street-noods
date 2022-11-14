@@ -467,17 +467,23 @@ ordering/contact information: ordering and contact information is especially nec
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+**Card Sorting Iteration 1**
+ ![Iteration 1](iteration1.png)
+In this iteration of card sorting there will be three pages on the website. The first page will contain an introduction, contact information, information about ordering and finally some pictures regarding the company and the food. The second page will contain background information along with a team picture, information about the charities being donated to and pictures of the charity logos. Finally, the third group will contain dish names and pictures, prices and allergy information. This website is concise but each page will be more content heavy. Additionally, the groups of content may not be intuitive to navigate.
+
+**Card Sorting Iteration 2**
+ ![Iteration 2](iteration2.png)
+ Iteration 2 of card sorting has 5 groups of content. The first page will have an introduction to the company, bool street noods along with some pictures regarding the company and their mission. The second page will contain information about the bool street team along with background information and a team picture including behind the scenes content. The third page will contain dish names and pictures, prices and allergy information. The fourth page will have pickup information including specific pickup instructions and a guide of ordering including contact and venmo information. Finally, the fifth page will have information about the charities that bool street donates to and will be donating to. This website content is allocated so that a potential customer will be able to easily navigate through it and find the information they need.
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+I plan to use the second iteration of card sorting for the website.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+According to user interview and research of common design patterns that align with audience goals, the design of the website is split up logically based on what a user may be trying to locate on the website.
 
 
 ### Navigation (Milestone 2)
