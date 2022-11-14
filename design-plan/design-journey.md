@@ -361,13 +361,18 @@ Goal 2: To find out the timings and location
 
 Goal 3: To find out allergens in the dishes
 
-TODO: design ideas and rationale
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - TODO: design ideas
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - TODO: rationale
 
-
-TODO: add as many goals as needed
 
 Goal 4: To get contact information and payment information
 
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - TODO: design ideas
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - TODO: rationale
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
@@ -517,11 +522,10 @@ Theme Idea 2: Fast food/ street food
 In this idea for the website theme, we would be using the most attracting colors of the fast food industry: yellow, orange, and red. Science suggests that these colors are associatd with food among customers and seeing it the users of the website would automatically associate it with food. Other than that, it would give the currect impression of the restaurant and its mission, which is to be able to provide cheap and accessible food to college students. What else could tell better "cheap and accessible" food other than the street food and everything associated with it.
 
 Theme Idea 3: Colorful
-This idea for the website theme still using the theme colors of white, black, and red but focusing more on the red theme color
-than the more minimalistic route of focusing on using white and black. This would still have the vibrancy of being a fast food restaurant without having the colors be too strong and bold for the mood of the company. The audience would still get more of the energetic feelings from Bool Street Noods without feeling like it is a generic looking street food website.
+This idea for the website theme still using the theme colors of white, black, and red but focusing more on the red theme color than the more minimalistic route of focusing on using white and black. This would still have the vibrancy of being a fast food restaurant without having the colors be too strong and bold for the mood of the company. The audience would still get more of the energetic feelings from Bool Street Noods without feeling like it is a generic looking street food website.
 
 
-The final theme selected for the website is Theme Idea 1. This is because it is a layout more familiar to the audience and is not too overbearing for the wide variety of users that would be going to the Bool Street Noods website in order to decide if they want to try food from there.
+The final theme selected for the website is Theme Idea 1. This is because it is a layout more familiar to the audience and is not too overbearing for the wide variety of users that would be going to the Bool Street Noods website in order to decide if they want to try food from there. In addition, it sticks more to the branding of Bool Street Noods that the owners intended their business to have.
 
 ## Design (Milestone 2)
 
@@ -532,9 +536,9 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
-- interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
-- interactivity idea 3: drop-down items: making it possible to see the entire menu, with the possiblity of pressing on any specific item to view the recipe and image of it.
+- Interactivity idea 1: hamburger menu: this would make the navigation easier on the narrow screens. It is a common practice on the websites that use responsive design for narrow screens and is familiar to the user. This would also save some space on the narrow screen as it shows the contents in a more compact way.
+- Interactivity idea 2: photo carousel: this would show the photos of food and would allow the user to explore the offered menu.
+- Interactivity idea 3: drop-down items: making it possible to see the entire menu, with the possiblity of pressing on any specific item to view the recipe and image of it.
 
 
 ### Layout Exploration (Milestone 2)
@@ -544,7 +548,12 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+Layout 1: with this first layout we want to have enough space for the logo, navigation and title. This is consistent even in the narrow screen which even though transforms the dropdown in a "hamburger", still keeps it at the top of the page right next to the logo. Moreover, this sketch aims at showing the efficiency of a carausel interactivity to engage the audience.
+![layout1](/design-plan/layout1.jpg)
+
+
+Layout 2: With this layout we are trying to grasp the audience attention by placing the name of the company over an attractive picture. Above that we have the navigation bar which gives easy access to the user. In the narrow screen, the navigation is also transformed in "hamburger" but in a different location compared to the previous layout.
+![layout2](/design-plan/layout2.jpg)
 
 Layout 3: In this last sketch, in the wide screen part we are trying to provide the user with the most essential information regarding our website without the need to even scroll as the text and carousel are one next to the other. The narrow screen also aims at keeping all information as compact as possible by making the navigation innto an "hamburger" and hiding the carousel.
 ![layout3](/design-plan/layout3.jpg)

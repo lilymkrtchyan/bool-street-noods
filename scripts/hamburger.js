@@ -28,4 +28,3 @@ $("#dropdown-toggle").click(function() {
       $("#dropdown-pages").addClass("hidden");
   }
 });
-
