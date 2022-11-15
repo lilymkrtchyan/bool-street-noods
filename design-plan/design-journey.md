@@ -616,8 +616,10 @@ Dropdown Menu:
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 Hamburger Menu:
+In order to implement the hamburger menu, I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. I was also
 
 Carousel:
+
 
 Dropdown Menu:
 
