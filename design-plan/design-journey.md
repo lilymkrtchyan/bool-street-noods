@@ -604,7 +604,6 @@ The home page for the narrow screen uses a hamburger menu to make use of the lim
 ![menu](menuScetchNarrow.png)
 The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
-
 **Wide (Wide) Design:**
 
 ![home](homewidesketch.JPG)
