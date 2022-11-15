@@ -627,6 +627,7 @@ Carousel:
 The purpose of the proposed interactivity of the photo carousel is to allow the users to see different food options on the menu easily when they are on the homepage of the website. This allows the users to preview the offered menu on their first glance of the website when deciding whether or not they are interested in the food being offered and it enhances the user experience as they do not need to search deeply in order to find what food is being offered.
 
 Dropdown Menu:
+The drop down menu allows easier search of the menu items as the user can choose which item they are interested in and look only at that item's description. This makes the serfing process easier and saves time for the user.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -667,7 +668,17 @@ Carousel:
 TODO:
 
 Dropdown Menu:
-TODO:
+// hides and shows content after pressing the icon near the menu item
+if #verticalTriangle is pressed{
+    remove class hidden from the #dishDescription
+    add class hidden to the #verticalTriangle
+    remove class hidden from the #horizontalTriangle
+}
+if #horizontalTriangal is pressed{
+    add class hidden to the #dishDescription
+    remove class hidden from the #verticalTriangle
+    add class hidden to the #horizontalTriangle
+}
 
 
 ## Client Feedback & Minutes (Milestone 2)
