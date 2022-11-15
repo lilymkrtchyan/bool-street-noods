@@ -604,6 +604,9 @@ The home page for the narrow screen uses a hamburger menu to make use of the lim
 ![menu](menuScetchNarrow.png)
 The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
+![charity](charitynarrow.jpg)
+The charity page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other as well as the menu page, however displayed differently. Having the image of the charity be the left big as to show its importance.
+
 **Wide (Wide) Design:**
 
 ![home](homewidesketch.JPG)
@@ -611,6 +614,9 @@ The homem page has the navigation bar as a horizontal bar to make use of the lar
 
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
+
+![charity](charitywide.jpg)
+In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Moreover, the reactive design makes it now possible to show two charities in a row to use the spaces better.
 
 
 ### Design Rationale (Milestone 2)
