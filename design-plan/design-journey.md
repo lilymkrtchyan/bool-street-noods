@@ -602,6 +602,7 @@ TODO: 1 paragraph
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
 Hamburger Menu:
+The purpose of the hamburger menu is to simplify the navigation of the website when in the narrow form so that it is easier to find out what dishes are being sold, find out allergens in the dishes, and get contact information and payment information through a more properly formatted menu design.
 
 Carousel:
 The purpose of the proposed interactivity of the photo carousel
