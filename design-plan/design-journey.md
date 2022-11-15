@@ -634,7 +634,7 @@ Dropdown Menu:
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 Hamburger Menu:
-In order to implement the hamburger menu, in terms of HTML I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. For CSS, I will be defining each of those classes in order to style each of those pieces of content. For JavaScript, I will be adding JavaScript so that the menu hides/shows after resizing the window, selecting the pages, and pressing the menu button.
+In order to implement the hamburger menu, in terms of HTML I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. For CSS, I will be defining each of those classes in order to style each of those pieces of content. For JavaScript, I will be adding JavaScript so that the menu hides/shows after resizing the window, selecting the pages, and pressing the menu button. In its initial state, the menu should be hidden until it is pressed on.
 
 // hides/shows content after resizing window
 when window is resized:
