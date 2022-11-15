@@ -129,14 +129,7 @@ profits to along with other special events.
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-Our proposed website is the right “size” for this project as the client is a small
-business that currently is only operating through social media platforms and thus
-is not a business or organization that will contain a multitude of information that
-will make the website beyond the scope of this project. On the flip side, our proposed
-website is not too small either as there is just enough information for several pages
-of content to be created for the small business and have a lot of content they still
-wish to convey to users/customers as they are beginning to establish their online
-presence.
+Our proposed website is the right “size” for this project as the client is a small business that currently is only operating through social media platforms and thus is not a business or organization that will contain a multitude of information that will make the website beyond the scope of this project. On the flip side, our proposed website is not too small either as there is just enough information for several pages of content to be created for the small business and have a lot of content they still wish to convey to users/customers as they are beginning to establish their online presence.
 
 
 ## Plan/Schedule (Milestone 1)
@@ -354,10 +347,37 @@ My participant is a sophomore student at Cornell University majoring in physics 
 
 **Interviewee 5:**
 
-TODO: tell us a bit about your participant
+Tell us a bit about your participant:
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+My participant is a junior student at Cornell University majoring in biology.
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+    She is a junior at Cornell University studying biology. She is from New Jersey.
+
+2. How often do you eat out?
+
+    The participant eats out three times a week.
+
+3. Refer back to the last time you ordered out to. Did you use the restaurant website and if so what was your experience with it?
+
+    They did use the restaurant website to order their food and had a smooth experience.
+
+4. What was the first type of food (appetizers, entree, dessert, etc.) did you order the last time you went to a restaurant?
+
+    They only ordered an entree.
+
+5. Think back on your previous experiences with restaurant websites. How often do you refer to the store hours on the website?
+
+    They often refer to the store hours on the website as they say that the restaurants they go to often change their hours.
+
+6. When you go on restaurant websites, how do the images with the corresponding dishes affect your food choices?
+
+    They find that the images greatly determine whether or not they want to order something, or they may find something looks different than what the description says and they may either find it more or less appetizing.
+
+7. What haven't I asked you today that you think would be valuable for me to know?
+
+    They think they should also ask about if vegetarian or vegan options are labeled on the website and their dietary choices.
 
 
 ### Goals (Milestone 2)
@@ -367,26 +387,30 @@ TODO: take notes inline with questions
 Goal 1: To find out what dishes are being sold
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - design ideas: Having a menu with accordion. The menu items would have plus or arrow icons, and when clicked, the photo of the dish along with the allergen and price information would appear.
+  - Having a menu with an accordion. The menu items would have plus or arrow icons, and when clicked, the photo of the dish along with the allergen and price information would appear.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - rationale: Menu is a common practice in all the places that offer food. Hence, the user that needs to find out what food is offered at the Bool Street Noods would expect to see a menu in their website. The decision to make the menu in a form of accordion is done so that it is easier to browse the menu, the menu looks more concise and easy to use, not much scrolling is needed, and the user can see only the information and the photos that they ar interested in (by clicking the icon next to the meal name).
+  - A menu is a common practice in all the places that offer food. Hence, the user that needs to find out what food is offered at the Bool Street Noods would expect to see a menu in their website. The decision to make the menu in a form of accordion is done so that it is easier to browse the menu, the menu looks more concise and easy to use, not much scrolling is needed, and the user can see only the information and the photos that they ar interested in (by clicking the icon next to the meal name).
 
 Goal 2: To find out the timings and location
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - design ideas: have a separate page for the pick-up information
+  - Have a separate page for the pick-up information
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - rationale: We think that the timing and location are very important for the users in their ordering process, hence that information has to be very easy to detect and see. To have the pick-up information with ultimtely the open hours and the pick-up location is the best solution. The user who has browsed the menu and/or already knows what they want to order would see the pick-up location right at the navigation bar and do not have to worry about finding this critical information in the large amount of paragraphs.
+  - We think that the timing and location are very important for the users in their ordering process, hence that information has to be very easy to detect and see. To have the pick-up information with ultimtely the open hours and the pick-up location is the best solution. The user who has browsed the menu and/or already knows what they want to order would see the pick-up location right at the navigation bar and do not have to worry about finding this critical information in the large amount of paragraphs.
 
 Goal 3: To find out allergens in the dishes
 
-- design ideas: The design idea is to have a paragraph of text or a list that includes and explains all the allergens that the specific food contains in the menu.
-
-- rationale: All the allergens are planned to be located in the menu because the user will want to see if the food contains allergens or not right when they are browsing the menu and are about to make an order. It is convinient to have that information in the menu as that way the user will not have decide on a dish, then browse the whole website to see if that dish contains any allergens. In that case, if that dish ends up contaning allergens the user will have to go back to the menu and choose another dish. This process would be long and tidious, hence we decided that it's the best to have this information right in the menu in a form of a paragraph or a list (depending how much information we get from the provider).
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - The design idea is to have a paragraph of text or a list that includes and explains all the allergens that the specific food contains in the menu.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - All the allergens are planned to be located in the menu because the user will want to see if the food contains allergens or not right when they are browsing the menu and are about to make an order. It is convinient to have that information in the menu as that way the user will not have decide on a dish, then browse the whole website to see if that dish contains any allergens. In that case, if that dish ends up contaning allergens the user will have to go back to the menu and choose another dish. This process would be long and tidious, hence we decided that it's the best to have this information right in the menu in a form of a paragraph or a list (depending how much information we get from the provider).
 
 Goal 4: To get contact information and payment information
-- design ideas: have a separate page for contact information
-- rationale: having a contact information as a separate page is a common practice that the users can expect to find in any website, including ours. We are planning to provide the phone information, social media information, and any other payment information that the users might need to place an order. This is its own grouping that would make sense for the user to see together in a separate page in a navigation bar.
+
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - We will have a separate page for contact information.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Having contact information as a separate page is a common practice that the users can expect to find in any website, including ours. We are planning to provide the phone information, social media information, and any other payment information that the users might need to place an order. This is its own grouping that would make sense for the user to see together in a separate page in a navigation bar.
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
@@ -462,7 +486,6 @@ Plan your site's content.
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-
 Basic information: The address and operating hours for people to know when they can order and where to pick up their orders.
 
 Dish names: Dish names are going to be in the menu so when the user looks at the menu they know what are the available options to order.
@@ -533,7 +556,6 @@ In this idea for the website theme, we would be using the most attracting colors
 Theme Idea 3: Colorful
 This idea for the website theme still using the theme colors of white, black, and red but focusing more on the red theme color than the more minimalistic route of focusing on using white and black. This would still have the vibrancy of being a fast food restaurant without having the colors be too strong and bold for the mood of the company. The audience would still get more of the energetic feelings from Bool Street Noods without feeling like it is a generic looking street food website.
 
-
 The final theme selected for the website is Theme Idea 1. This is because it is a layout more familiar to the audience and is not too overbearing for the wide variety of users that would be going to the Bool Street Noods website in order to decide if they want to try food from there. In addition, it sticks more to the branding of Bool Street Noods that the owners intended their business to have.
 
 ## Design (Milestone 2)
@@ -576,14 +598,12 @@ Layout 3: In this last sketch, in the wide screen part we are trying to provide 
 
 **Narrow (Mobile) Design:**
 
-narrow sketches and explanation:
 ![menu](menuScetchNarrow.png)
 The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
 
 **Wide (Wide) Design:**
 
-wide sketches and explanation:
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
 
@@ -604,8 +624,7 @@ Hamburger Menu:
 The purpose of the hamburger menu is to simplify the navigation of the website when in the narrow form so that it is easier to find out what dishes are being sold, find out allergens in the dishes, and get contact information and payment information through a more properly formatted menu design.
 
 Carousel:
-The purpose of the proposed interactivity of the photo carousel
-is to allow the users to see different food options on the menu easily when they are on the homepage of the website. This allows the users to preview the offered menu on their first glance of the website when deciding whether or not they are interested in the food being offered and it enhances the user experience as they do not need to search deeply in order to find what food is being offered.
+The purpose of the proposed interactivity of the photo carousel is to allow the users to see different food options on the menu easily when they are on the homepage of the website. This allows the users to preview the offered menu on their first glance of the website when deciding whether or not they are interested in the food being offered and it enhances the user experience as they do not need to search deeply in order to find what food is being offered.
 
 Dropdown Menu:
 The drop down menu allows easier search of the menu items as the user can choose which item they are interested in and look only at that item's description. This makes the serfing process easier and saves time for the user.
@@ -644,9 +663,6 @@ when button is pressed {
       add class hidden to dropdown-pages
   }
 });
-
-
-
 
 Carousel:
 TODO:
