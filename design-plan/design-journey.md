@@ -187,7 +187,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Bool Street Noods. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
@@ -367,31 +367,26 @@ TODO: take notes inline with questions
 Goal 1: To find out what dishes are being sold
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - design ideas: Having a menu with accordion. The menu items would have plus or arrow icons, and when clicked, the photo of the dish along with the allergen and price information would appear.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - rationale: Menu is a common practice in all the places that offer food. Hence, the user that needs to find out what food is offered at the Bool Street Noods would expect to see a menu in their website. The decision to make the menu in a form of accordion is done so that it is easier to browse the menu, the menu looks more concise and easy to use, not much scrolling is needed, and the user can see only the information and the photos that they ar interested in (by clicking the icon next to the meal name).
 
 Goal 2: To find out the timings and location
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - design ideas: have a separate page for the pick-up information
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - rationale: We think that the timing and location are very important for the users in their ordering process, hence that information has to be very easy to detect and see. To have the pick-up information with ultimtely the open hours and the pick-up location is the best solution. The user who has browsed the menu and/or already knows what they want to order would see the pick-up location right at the navigation bar and do not have to worry about finding this critical information in the large amount of paragraphs.
 
 Goal 3: To find out allergens in the dishes
 
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+- design ideas: The design idea is to have a paragraph of text or a list that includes and explains all the allergens that the specific food contains in the menu.
 
+- rationale: All the allergens are planned to be located in the menu because the user will want to see if the food contains allergens or not right when they are browsing the menu and are about to make an order. It is convinient to have that information in the menu as that way the user will not have decide on a dish, then browse the whole website to see if that dish contains any allergens. In that case, if that dish ends up contaning allergens the user will have to go back to the menu and choose another dish. This process would be long and tidious, hence we decided that it's the best to have this information right in the menu in a form of a paragraph or a list (depending how much information we get from the provider).
 
 Goal 4: To get contact information and payment information
-
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+- design ideas: have a separate page for contact information
+- rationale: having a contact information as a separate page is a common practice that the users can expect to find in any website, including ours. We are planning to provide the phone information, social media information, and any other payment information that the users might need to place an order. This is its own grouping that would make sense for the user to see together in a separate page in a navigation bar.
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
@@ -581,12 +576,16 @@ Layout 3: In this last sketch, in the wide screen part we are trying to provide 
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+narrow sketches and explanation:
+![menu](menuScetchNarrow.png)
+The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
 
 **Wide (Wide) Design:**
 
-TODO: wide sketches and explanation
+wide sketches and explanation:
+![menu](menuScetchWide.png)
+In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
 
 
 ### Design Rationale (Milestone 2)
@@ -602,6 +601,7 @@ TODO: 1 paragraph
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
 Hamburger Menu:
+The purpose of the hamburger menu is to simplify the navigation of the website when in the narrow form so that it is easier to find out what dishes are being sold, find out allergens in the dishes, and get contact information and payment information through a more properly formatted menu design.
 
 Carousel:
 The purpose of the proposed interactivity of the photo carousel
@@ -615,19 +615,58 @@ Dropdown Menu:
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 Hamburger Menu:
+In order to implement the hamburger menu, in terms of HTML I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. For CSS, I will be defining each of those classes in order to style each of those pieces of content. For JavaScript, I will be adding JavaScript so that the menu hides/shows after resizing the window, selecting the pages, and pressing the menu button.
+
+// hides/shows content after resizing window
+when window is resized:
+  if the window width is greater than or equal to 600:
+    add class hidden to #dropdown-button
+    remove class hidden from #dropdown-pages
+  else:
+    remove class hidden from #dropdown-button
+    add class hidden to #dropdown-pages
+
+// hides/shows content after selecting pages
+if window width is greater than or equal to 600 {
+  add class hidden to #dropdown-button
+  remove class hidden from #dropdown-pages
+} else {
+  remove class hidden from #dropdown-button
+  add class hidden to #dropdown-pages
+}
+
+// hides/shows content after pressing the menu button
+when button is pressed {
+  if #dropdown-button is hidden {
+      remove class hidden from dropdown-pages
+  } else {
+      add class hidden to dropdown-pages
+  }
+});
+
+
+
 
 Carousel:
+TODO:
 
 Dropdown Menu:
+TODO:
 
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+The client was extremely happy with the website when it was presented to them. They had minor changes to address such as fonts and colors of the website which we then changed as per their wishes. They also wanted to make changes to the current menu page in terms of the content that we had displayed. Most of the problems they had with the website were content related problems and they loved the layout and design of the website as they felt like it reflected their company and its culture extremely well.
 
-TODO: meeting minutes
+Meeting Minutes:
+
+- Showed client initial website
+- they asked to see through the entire website
+- the client relayed feedback on the website
+- short conversation about design choices and choosing website colors
+- the addition of new pictures that they would send to us shortly after their next operational day
 
 
 ## User Testing (Final Submission)

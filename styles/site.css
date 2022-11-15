@@ -1,3 +1,4 @@
+/*Menu Page*/
 .hidden{
     display: none;
 }
@@ -49,4 +50,65 @@
     .row {
       flex-direction: column;
     }
+}
+
+
+/*Overall*/
+
+body {
+    background-color: hsl(32, 25%, 88%);
+    font-family:cursive;
+    font-size:large;
+    color: #200303;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 10px;
+    align-items: center;
+    background-color: black;
+  }
+
+  .logo {
+    padding-right: 10px;
+  }
+
+.title {
+    color:white;
+}
+
+h2 {
+    color: darkred;
+}
+
+
+/*Navigation Bar*/
+
+ul.nav > li{
+    display: inline-block;
+  }
+
+  ul.nav > li a{
+    color: #ffffff;
+    font-size: x-large;
+    padding-inline:90px;
+  }
+
+  .navigation {
+    display: flex;
+    flex-direction: row;
+    background-color: darkred;
+    padding: 10px;
+    ;
+  }
+
+/*About Page*/
+
+.foundingstory {
+    border: double 8px darkred;
+    border-radius: 25px;
+    justify-self: center;
+    margin-left: 25%;
 }
