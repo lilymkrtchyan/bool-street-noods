@@ -113,7 +113,7 @@ ul.nav > li{
     margin-left: 25%;
 }
 
-  .dropdown-menu {
+  .dropdown-navigation {
     display:flex;
     justify-content: right;
     flex-direction: column;
