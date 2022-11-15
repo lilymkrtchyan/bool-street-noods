@@ -112,3 +112,51 @@ ul.nav > li{
     justify-self: center;
     margin-left: 25%;
 }
+
+  .dropdown-menu {
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+  }
+
+  button:hover,
+  button:active {
+    color: white;
+  }
+
+  button{
+    cursor: pointer;
+    background-color:#F8B195;
+    padding: 14px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    font-family: verdana, sans-serif;
+    display: block;
+    border: 2.5px solid;
+    padding: .5em 1em;
+    border-radius: 1.5em;
+    margin: 0em;
+  }
+
+  #dropdown-options {
+    background-color: #F67280;
+  }
+
+  #dropdown-options a{
+    font-size: 10pt;
+    font-weight: bold;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  #dropdown-options a:link,
+  #dropdown-options a:visited {
+    color: #000000;
+  }
+
+  #dropdown-options a:focus,
+  #dropdown-options a:hover,
+  #dropdown-options a:active {
+    color: #fff;
+  }
