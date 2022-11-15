@@ -608,7 +608,7 @@ The menu page for the narrow screen uses a hamburger menu. For the better use of
 **Wide (Wide) Design:**
 
 ![home](homewidesketch.JPG)
-The homem page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience. 
+The homem page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience.
 
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
@@ -673,12 +673,18 @@ when button is pressed {
 ```
 
 Carousel:
-In order to implement the hamburger menu, in terms of HTML I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. For CSS, I will be defining each of those classes in order to style each of those pieces of content. For JavaScript, I will be adding JavaScript so that the menu hides/shows after resizing the window, selecting the pages, and pressing the menu button.
+In order to implement the carousel menu, in the HTML I will be adding a slide class for all of the slides in the carousel, and give an id to each of the slides in the carousel. In the CSS, each of the classes and ids will be used to style the content. The .hidden class will also be used to hide the slides I do not want shown immediately on the screen. In the Javascript, it will allow for the user to click the back and forward arrows to view the different images in the carousel while having an indicator (circles) of which of the 3 images is being shown.
 
 ```
+when #next-button clicked:
+  show next slide (next slide snippet)
+when #back-button clicked:
+  show previous slide (previous slide snippet)
 ```
 
 Dropdown Menu:
+
+```
 // hides and shows content after pressing the icon near the menu item
 if #verticalTriangle is pressed{
     remove class hidden from the #dishDescription
@@ -690,6 +696,8 @@ if #horizontalTriangal is pressed{
     remove class hidden from the #verticalTriangle
     add class hidden to the #horizontalTriangle
 }
+```
+
 
 
 ## Client Feedback & Minutes (Milestone 2)
