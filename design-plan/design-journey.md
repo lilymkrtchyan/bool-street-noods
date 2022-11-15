@@ -367,31 +367,26 @@ TODO: take notes inline with questions
 Goal 1: To find out what dishes are being sold
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - design ideas: Having a menu with accordion. The menu items would have plus or arrow icons, and when clicked, the photo of the dish along with the allergen and price information would appear.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - rationale: Menu is a common practice in all the places that offer food. Hence, the user that needs to find out what food is offered at the Bool Street Noods would expect to see a menu in their website. The decision to make the menu in a form of accordion is done so that it is easier to browse the menu, the menu looks more concise and easy to use, not much scrolling is needed, and the user can see only the information and the photos that they ar interested in (by clicking the icon next to the meal name).
 
 Goal 2: To find out the timings and location
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - design ideas: have a separate page for the pick-up information
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - rationale: We think that the timing and location are very important for the users in their ordering process, hence that information has to be very easy to detect and see. To have the pick-up information with ultimtely the open hours and the pick-up location is the best solution. The user who has browsed the menu and/or already knows what they want to order would see the pick-up location right at the navigation bar and do not have to worry about finding this critical information in the large amount of paragraphs.
 
 Goal 3: To find out allergens in the dishes
 
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+- design ideas: The design idea is to have a paragraph of text or a list that includes and explains all the allergens that the specific food contains in the menu.
 
+- rationale: All the allergens are planned to be located in the menu because the user will want to see if the food contains allergens or not right when they are browsing the menu and are about to make an order. It is convinient to have that information in the menu as that way the user will not have decide on a dish, then browse the whole website to see if that dish contains any allergens. In that case, if that dish ends up contaning allergens the user will have to go back to the menu and choose another dish. This process would be long and tidious, hence we decided that it's the best to have this information right in the menu in a form of a paragraph or a list (depending how much information we get from the provider).
 
 Goal 4: To get contact information and payment information
-
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+- design ideas: have a separate page for contact information
+- rationale: having a contact information as a separate page is a common practice that the users can expect to find in any website, including ours. We are planning to provide the phone information, social media information, and any other payment information that the users might need to place an order. This is its own grouping that would make sense for the user to see together in a separate page in a navigation bar.
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
