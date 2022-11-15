@@ -46,6 +46,12 @@
 #next-button img{
     max-width: 50px;
 }
+
+.slides {
+    display: flex;
+    flex-direction: row;
+}
+
 @media (max-width: 600px) {
     .row {
       flex-direction: column;
