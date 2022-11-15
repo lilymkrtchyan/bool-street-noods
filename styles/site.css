@@ -32,12 +32,20 @@
     max-width:600px;
 }
 
-#homepage_images {
-    display: flex;
-    flex-direction: row;
+#back-button img{
+    max-width: 50px;
 }
 
+#back-button {
+    min-height: 480px;
+}
 
+#next-button {
+    min-height: 480px;
+}
+#next-button img{
+    max-width: 50px;
+}
 @media (max-width: 600px) {
     .row {
       flex-direction: column;
