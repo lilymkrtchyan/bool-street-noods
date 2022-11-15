@@ -581,12 +581,16 @@ Layout 3: In this last sketch, in the wide screen part we are trying to provide 
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+narrow sketches and explanation:
+![menu](menuScetchNarrow.png)
+The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
 
 **Wide (Wide) Design:**
 
-TODO: wide sketches and explanation
+wide sketches and explanation:
+![menu](menuScetchWide.png)
+In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
 
 
 ### Design Rationale (Milestone 2)
