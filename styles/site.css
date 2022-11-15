@@ -119,7 +119,7 @@ ul.nav > li{
     margin-left: 25%;
 }
 
-  .dropdown-menu {
+  .dropdown-navigation {
     display:flex;
     justify-content: right;
     flex-direction: column;
@@ -132,7 +132,7 @@ ul.nav > li{
 
   button{
     cursor: pointer;
-    background-color:#F8B195;
+    background-color:#ea941b;
     padding: 14px;
     font-size: 14px;
     font-weight: bold;

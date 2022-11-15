@@ -604,6 +604,8 @@ The home page for the narrow screen uses a hamburger menu to make use of the lim
 ![menu](menuScetchNarrow.png)
 The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
+![charity](charitynarrow.jpg)
+The charity page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other as well as the menu page, however displayed differently. Having the image of the charity be the left big as to show its importance.
 
 **Wide (Wide) Design:**
 
@@ -613,13 +615,16 @@ The homem page has the navigation bar as a horizontal bar to make use of the lar
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
 
+![charity](charitywide.jpg)
+In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Moreover, the reactive design makes it now possible to show two charities in a row to use the spaces better.
+
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience.
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+This design specifically matches our audience, as it firstly works on both narrow and wide devices and in our case our audience uses both. Moreover, the division of content throughout all pages makes it very straightforward to the user, having in the navigation bar all the main things that the user might be interested in. Additionally, the design includes a lot of interactive features such as carausels and drop-down in order to provide the user with the best possible user experience, as it can use images to give the user a better understanding of its products.
 
 
 ## Interactivity Rationale (Milestone 2)
