@@ -598,11 +598,17 @@ Layout 3: In this last sketch, in the wide screen part we are trying to provide 
 
 **Narrow (Mobile) Design:**
 
+![home](homenarrowsketch.JPG)
+The home page for the narrow screen uses a hamburger menu to make use of the limited space. The narrow screen also still employs a carousel that will stretch to accomodate the width of the smaller screen.
+
 ![menu](menuScetchNarrow.png)
 The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
 
 
 **Wide (Wide) Design:**
+
+![home](homewidesketch.JPG)
+The homem page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience. 
 
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
@@ -636,6 +642,7 @@ Dropdown Menu:
 Hamburger Menu:
 In order to implement the hamburger menu, in terms of HTML I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. For CSS, I will be defining each of those classes in order to style each of those pieces of content. For JavaScript, I will be adding JavaScript so that the menu hides/shows after resizing the window, selecting the pages, and pressing the menu button.
 
+```
 // hides/shows content after resizing window
 when window is resized:
   if the window width is greater than or equal to 600:
@@ -662,9 +669,13 @@ when button is pressed {
       add class hidden to dropdown-pages
   }
 });
+```
 
 Carousel:
-TODO:
+In order to implement the hamburger menu, in terms of HTML I will be adding a "dropdown" class for the entire dropdown interaction, a "dropdown-button" class for the button, and a "dropdown-pages" class for the dropdown menu options. For CSS, I will be defining each of those classes in order to style each of those pieces of content. For JavaScript, I will be adding JavaScript so that the menu hides/shows after resizing the window, selecting the pages, and pressing the menu button.
+
+```
+```
 
 Dropdown Menu:
 TODO:
