@@ -22,7 +22,7 @@ if ($(window).width() >= 600) {
 
 // hides/shows content after pressing the menu button
 $("#dropdown-button").click(function() {
-  if ($("#dropdown-button").hasClass("hidden")) {
+  if ($("#dropdown-pages").hasClass("hidden")) {
       $("#dropdown-pages").removeClass("hidden");
   } else {
       $("#dropdown-pages").addClass("hidden");
