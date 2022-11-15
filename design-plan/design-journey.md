@@ -187,7 +187,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Bool Street Noods. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
@@ -648,18 +648,25 @@ when button is pressed {
 
 
 Carousel:
-
+TODO:
 
 Dropdown Menu:
+TODO:
 
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+The client was extremely happy with the website when it was presented to them. They had minor changes to address such as fonts and colors of the website which we then changed as per their wishes. They also wanted to make changes to the current menu page in terms of the content that we had displayed. Most of the problems they had with the website were content related problems and they loved the layout and design of the website as they felt like it reflected their company and its culture extremely well.
 
-TODO: meeting minutes
+Meeting Minutes:
+
+- Showed client initial website
+- they asked to see through the entire website
+- the client relayed feedback on the website
+- short conversation about design choices and choosing website colors
+- the addition of new pictures that they would send to us shortly after their next operational day
 
 
 ## User Testing (Final Submission)
