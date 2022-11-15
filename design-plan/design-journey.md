@@ -608,7 +608,7 @@ The menu page for the narrow screen uses a hamburger menu. For the better use of
 **Wide (Wide) Design:**
 
 ![home](homewidesketch.JPG)
-The homem page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience. 
+The homem page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience.
 
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
@@ -619,7 +619,7 @@ In the wide screen of the menu page the navigation is a horizontal bar instead o
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+This design specifically matches our audience, as it firstly works on both narrow and wide devices and in our case our audience uses both. Moreover, the division of content throughout all pages makes it very straightforward to the user, having in the navigation bar all the main things that the user might be interested in. Additionally, the design includes a lot of interactive features such as carausels and drop-down in order to provide the user with the best possible user experience, as it can use images to give the user a better understanding of its products.
 
 
 ## Interactivity Rationale (Milestone 2)
