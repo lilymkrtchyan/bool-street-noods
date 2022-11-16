@@ -608,7 +608,8 @@ The charity page for the narrow screen uses a hamburger menu. For the better use
 
 ![pickup]()
 
-![about]()
+![about](aboutnarrow.jpg)
+The about page has the logo and name at the top followed by the navigation bar in the form of a hamburger menu. The page has information about the team behind bool street noods along with the back story of why they started the business.
 
 **Wide (Wide) Design:**
 
@@ -623,7 +624,8 @@ In the wide screen of the menu page the navigation is a horizontal bar instead o
 
 ![pickup]()
 
-![about]()
+![about](aboutwide.jpg)
+The about page has the logo and name at the top followed by the navigation bar across the screen. The page has information about the team behind bool street noods along with the back story of why they started the business.
 
 
 ### Design Rationale (Milestone 2)
