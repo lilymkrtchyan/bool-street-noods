@@ -606,7 +606,8 @@ The menu page for the narrow screen uses a hamburger menu. For the better use of
 ![charity](charitynarrow.jpg)
 The charity page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other as well as the menu page, however displayed differently. Having the image of the charity be the left big as to show its importance.
 
-![pickup]()
+![pickup](pickupnarrow.jpg)
+The pickup page in the narrow screen utilizes a hamburger menu. It makes better use of the limited space by stacking the contents of the menu on top of each other rather than spreading the content out horizontally. The information below explains the information that you need to pick up food purchases.
 
 ![about](aboutnarrow.jpg)
 The about page has the logo and name at the top followed by the navigation bar in the form of a hamburger menu. The page has information about the team behind bool street noods along with the back story of why they started the business.
@@ -622,7 +623,8 @@ In the wide screen of the menu page the navigation is a horizontal bar instead o
 ![charity](charitywide.jpg)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Moreover, the reactive design makes it now possible to show two charities in a row to use the spaces better.
 
-![pickup]()
+![pickup](pickupwide.jpg)
+The wide screen of the pickup page makes use of a horizontal navigation bar rather than the hamburger menu used in the narrow version of the page as to make better use of the space. The information below explains the information that you need to pick up food purchases.
 
 ![about](aboutwide.jpg)
 The about page has the logo and name at the top followed by the navigation bar across the screen. The page has information about the team behind bool street noods along with the back story of why they started the business.
