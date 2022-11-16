@@ -582,7 +582,6 @@ Document your site's layout.
 Layout 1: with this first layout we want to have enough space for the logo, navigation and title. This is consistent even in the narrow screen which even though transforms the dropdown in a "hamburger", still keeps it at the top of the page right next to the logo. Moreover, this sketch aims at showing the efficiency of a carausel interactivity to engage the audience.
 ![layout1](/design-plan/layout1.jpg)
 
-
 Layout 2: With this layout we are trying to grasp the audience attention by placing the name of the company over an attractive picture. Above that we have the navigation bar which gives easy access to the user. In the narrow screen, the navigation is also transformed in "hamburger" but in a different location compared to the previous layout.
 ![layout2](/design-plan/layout2.jpg)
 
@@ -685,6 +684,12 @@ when #next-button clicked:
   show next slide (next slide snippet)
 when #back-button clicked:
   show previous slide (previous slide snippet)
+when #noodle-slide is selected:
+    show status dot
+when #wings-slide is selected:
+    show status dot
+when #sandwich-slide is selected:
+    show status dot
 ```
 
 Dropdown Menu:

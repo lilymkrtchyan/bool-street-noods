@@ -1,4 +1,4 @@
-const SLIDES = $(".slides");
+const SLIDES = $("slides");
 
 function showSlide(num) {
     let index = num - 1;
