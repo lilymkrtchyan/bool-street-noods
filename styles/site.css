@@ -12,6 +12,11 @@
     width: 40px;
 }
 
+.menuImg{
+    width: 250px;
+}
+
+/*Home Page*/
 .row {
     display: flex;
     margin-left: 15px;
@@ -119,7 +124,7 @@ ul.nav > li{
     margin-left: 25%;
 }
 
-  .dropdown-navigation {
+  .dropdown-menu {
     display:flex;
     justify-content: right;
     flex-direction: column;
@@ -132,7 +137,7 @@ ul.nav > li{
 
   button{
     cursor: pointer;
-    background-color:#ea941b;
+    background-color:#F8B195;
     padding: 14px;
     font-size: 14px;
     font-weight: bold;
