@@ -40,26 +40,17 @@
 .homepage_images {
   display: flex;
   flex-direction: row;
+
 }
 
 .homepage_images img {
-  max-width: 450px;
   margin-left: auto;
   margin-right: auto;
-  border-color: darkred;
-  border: 2.5px solid;
-}
-@media (max-width: 600px) {
-    .row {
-      flex-direction: column;
-    }
+  width: 30%;
 
-  .homepage_images {
-    flex-direction: column;
-    margin-left:0ch;
-    margin-right:0ch;
-    ##change margin
-  }
+  border: double 8px darkred;
+  border-radius: 25px;
+  border-radius: 10px;
 }
 
 
@@ -111,7 +102,6 @@ ul.nav > li{
     flex-direction: row;
     background-color: darkred;
     padding: 10px;
-    ;
   }
 
 /*About Page*/
@@ -170,3 +160,33 @@ ul.nav > li{
   #dropdown-options a:active {
     color: #fff;
   }
+
+
+/*Phone Screen Styling*/
+
+  @media (max-width: 600px) {
+    /*Home Page*/
+    .row {
+      flex-direction: column;
+    }
+
+    /*Home Page*/
+
+    .homepage_images {
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+    }
+
+    .homepage_images img{
+      margin-left:0;
+      margin-right:0;
+      position: relative;
+      left: -10px;
+
+      width: auto;
+      max-width: 570px;
+    }
+
+
+}
