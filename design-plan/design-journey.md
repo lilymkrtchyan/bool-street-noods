@@ -416,7 +416,7 @@ Goal 4: To get contact information and payment information
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Nodes originated in Cornell and is thus advertised among mainly Cornell students. 
+The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Nodes originated in Cornell and is thus advertised among mainly Cornell students.
 
 ## Website Design Exploration (Milestone 2)
 
@@ -635,7 +635,7 @@ The about page has the logo and name at the top followed by the navigation bar a
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-This design specifically matches our audience, as it firstly works on both narrow and wide devices and in our case our audience uses both. Moreover, the division of content throughout all pages makes it very straightforward to the user, having in the navigation bar all the main things that the user might be interested in. Additionally, the design includes a lot of interactive features such as carausels and drop-down in order to provide the user with the best possible user experience, as it can use images to give the user a better understanding of its products.
+This design specifically matches our audience, as it firstly works on both narrow and wide devices and in our case our audience uses both. Moreover, the division of content throughout all pages makes it very straightforward to the user, having in the navigation bar all the main things that the user might be interested in. Additionally, the design includes a lot of interactive features such as accordions and a hamburger drop-down menu in order to provide the user with the best possible user experience, as it can use images to give the user a better understanding of its products.
 
 
 ## Interactivity Rationale (Milestone 2)
@@ -650,6 +650,9 @@ The purpose of the proposed interactivity of the photo carousel is to allow the 
 
 Dropdown Menu:
 The drop down menu allows easier search of the menu items as the user can choose which item they are interested in and look only at that item's description. This makes the serfing process easier and saves time for the user.
+
+Updated-Design:
+We decided to non longer use the carousel in order to focus on the other two interactive elements.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -720,7 +723,8 @@ if #horizontalTriangal is pressed{
 }
 ```
 
-
+Updated-Design:
+We decided to non longer use the carousel in order to focus on the other two interactive elements.
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.

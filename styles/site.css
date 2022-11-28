@@ -37,30 +37,29 @@
     max-width:600px;
 }
 
-#back-button img{
-    max-width: 50px;
+.homepage_images {
+  display: flex;
+  flex-direction: row;
 }
 
-#back-button {
-    min-height: 480px;
+.homepage_images img {
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: darkred;
+  border: 2.5px solid;
 }
-
-#next-button {
-    min-height: 480px;
-}
-#next-button img{
-    max-width: 50px;
-}
-
-.slides {
-    display: flex;
-    flex-direction: row;
-}
-
 @media (max-width: 600px) {
     .row {
       flex-direction: column;
     }
+
+  .homepage_images {
+    flex-direction: column;
+    margin-left:0ch;
+    margin-right:0ch;
+    ##change margin
+  }
 }
 
 
