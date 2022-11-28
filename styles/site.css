@@ -1,21 +1,3 @@
-/*Menu Page*/
-.hidden{
-    display: none;
-}
-
-.dish{
-    display: flex;
-    flex-direction: row;
-}
-
-.icon{
-    width: 40px;
-}
-
-.menuImg{
-    width: 250px;
-}
-
 /*Charities Page*/
 .row {
     display: flex;
@@ -56,6 +38,26 @@
 }
 
 /*Menu Page*/
+.hidden{
+  display: none;
+}
+
+.dish{
+  display: flex;
+  flex-direction: row;
+}
+
+.icon{
+  width: 40px;
+}
+
+.menuImg{
+  width: 250px;
+}
+
+ul {
+  spacing
+}
 
 .row1 {
   display: flex;
@@ -303,5 +305,5 @@ ul.nav > li{
       border: none;
       padding: 0;
     }
-    
+
 }
