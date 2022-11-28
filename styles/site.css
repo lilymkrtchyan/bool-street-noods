@@ -16,7 +16,7 @@
     width: 250px;
 }
 
-/*Home Page*/
+/*Charities Page*/
 .row {
     display: flex;
     margin-left: 15px;
@@ -36,6 +36,8 @@
     height: 400px;
     max-width:600px;
 }
+
+/*Home Page*/
 
 .homepage_images {
   display: flex;
@@ -188,5 +190,22 @@ ul.nav > li{
       max-width: 570px;
     }
 
+    /*About Page*/
+
+    .foundingstory {
+      margin-left:0;
+      margin-right:0;
+      width: 90%;
+    }
+
+    /*Charities Page*/
+
+    .row {
+      margin-left: 0;
+    }
+
+    #one {
+      margin-top: -10px;
+    }
 
 }
