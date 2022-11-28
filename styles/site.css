@@ -22,6 +22,7 @@
     margin-left: 15px;
 }
 
+
 .col{
     align-items: stretch;
     flex-direction: column;
@@ -51,9 +52,79 @@
   width: 30%;
 
   border: double 8px darkred;
-  border-radius: 25px;
   border-radius: 10px;
 }
+
+/*Menu Page*/
+
+.row1 {
+  display: flex;
+  flex-direction: row;
+  border: dashed 4px darkred;
+  border-radius: 10px;
+  border-right: none;
+
+}
+
+.row1 div {
+  margin-right: auto;
+  border: dashed 4px darkred;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  padding: 10px;
+}
+
+.row1 #main_dish {
+  width: 33%;
+}
+.row1 #sauces {
+  width: 33%;
+}
+.row1 #add_protein {
+  width: 33%;
+}
+.row1 #sauces {
+  width: 33%;
+}
+
+.row1 #main_dish .dish{
+  margin-top: -10px;
+  border: none;
+}
+
+.row1 #sauces .dish{
+  margin-top: -10px;
+  border: none;
+}
+
+.row2 {
+  display: flex;
+  flex-direction: row;
+  border: dashed 4px darkred;
+  border-radius: 10px;
+  border-right: none;
+  border-top: none;
+
+}
+
+.row2 div{
+  margin-right: auto;
+  border:dashed 4px darkred;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  padding: 10px;
+}
+
+.row2 #sides{
+  width: 50%;
+}
+
+.row2 #drinks{
+  width: 50%;
+}
+
 
 
 /*Overall*/
@@ -208,4 +279,29 @@ ul.nav > li{
       margin-top: -10px;
     }
 
+
+    /* Menu Page */
+    .row1 {
+      display: flex;
+      flex-direction:column;
+      border: none;
+    }
+
+    .row1 div{
+      border: none;
+      padding: 0;
+    }
+
+    .row2 {
+      display: flex;
+      flex-direction: column;
+      margin-top: 10px;
+      border: none;
+    }
+
+    .row2 div{
+      border: none;
+      padding: 0;
+    }
+    
 }
