@@ -740,22 +740,21 @@ Meeting Minutes:
 - short conversation about design choices and choosing website colors
 - the addition of new pictures that they would send to us shortly after their next operational day
 
-
-
 ## User Testing (Final Submission)
 
 **Conduct user testing with a minimum of 1 participant for every member of your team.**
+
 
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing.
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Locate the pickup location on the website.
 
-2. TODO: task 2
+2. Find the main dishes of the restaurant.
 
-3. TODO: task 3
+3. Order a full meal.
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
@@ -778,8 +777,11 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
-
+- User 1: They did not know that the buttons on the menu page were buttons.
+- User 2: They had no problem with the website.
+- User 3: Felt like the pickup page is not informative enough.
+- User 4: The order of the nav bar could be organized in a more intuitive way.
+- User 5: Noticed spelling typos in the menu page.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -837,11 +839,15 @@ TODO: explain the revisions to your website from user testing
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+- Luis
+- Arya
+- Lily
+- Kaylah
+- Guia
 
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+- W3Schools.com
