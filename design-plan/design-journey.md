@@ -827,7 +827,7 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    Yes
+    Yes, they are a Cornell University student living in Collegetown.
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
@@ -840,7 +840,7 @@ Task 2:
 She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
 
 Task 3:
-They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
+> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were. However, they did note how the other sections such as Add Protein and Sides did not have any format such as bullet points while the Main Dishes and Sauces did, and they felt that it was confusing as at first glance as it seemed like text content and not additional menu items was on the page.
 
 Task 4:
 She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
