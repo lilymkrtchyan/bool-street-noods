@@ -781,9 +781,6 @@ Meeting Minutes:
 
 The user found most answers to all the questions with ease. The only portion the user struggled with was figuring out which part of the dropdown menu to click to see the details about each dish. The user also looked on the about us page before the home page to find the contact us information.
 
-- User 3: Felt like the pickup page is not informative enough.
-- User 4: The order of the nav bar could be organized in a more intuitive way.
-- User 5: Noticed spelling typos in the menu page.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -839,7 +836,6 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 TODO: participant user test notes
 
 
-
 ### Participant 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -893,17 +889,8 @@ TODO: participant user test notes
 The user completed all four tasks with ease. He did not spend much time thinking about a task or struggling to navigate through the website. The user commented on certain spelling errors in the menu page of the website.
 
 
-### Participant 4 -- Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test.
-
-TODO: participant user test notes
-
-
-TODO: add more participants if necessary
-
 ### Participant 5 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
-
 
 Task 1:
 >She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
