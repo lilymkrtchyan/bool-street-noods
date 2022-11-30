@@ -767,20 +767,21 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+   The participant's name is Conrad Hamilton. He is an Applied Economics and Management major and lives on Elmwood Avenue in Collegetown. The user is a student at Cornell University. Conrad says he eats out around once or twice a week and that he would love to support student run businesses.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, the user belongs to the audience of the website as he is a student at Cornell University that lives in Collegetown, Ithaca.
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-- User 1: They did not know that the buttons on the menu page were buttons.
+The user found most answers to all the questions with ease. The only portion the user struggled with was figuring out which part of the dropdown menu to click to see the details about each dish. The user also looked on the about us page before the home page to find the contact us information.
+
 - User 2: They had no problem with the website.
 - User 3: Felt like the pickup page is not informative enough.
 - User 4: The order of the nav bar could be organized in a more intuitive way.
@@ -830,11 +831,30 @@ TODO: participant user test notes
 
 TODO: add more participants if necessary
 
+### Participant 4 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+TODO: participant user test notes
+
+
+TODO: add more participants if necessary
+
+### Participant 5 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+TODO: participant user test notes
+
+
+TODO: add more participants if necessary
+
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+From user testing, we found certain changes to make to the website to improve upon its usability and user-friendliness
+- Adding a hover feature to the buttons on the dropdown feature on the menu page
+- Adding a contact us information section on the about us page in addition to the home page
+- Correcting a few spelling typos on the menu section of the website
 
 
 ## Grading (Final Submission)
