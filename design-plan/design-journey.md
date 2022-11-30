@@ -845,19 +845,25 @@ TODO: participant user test notes
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    Participant 4's name is Junior Lin. He is a junior at Cornell University studying HBHS. He lives in Collegetown and eats in Collegetown once every other week.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, because he is a student at Cornell University that lives in Collegetown, Ithaca.
 
 ### Participant 4 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Find the main dishes of the restaurant on the website.
+
+2. Pretend that you just made an order on the website. Find when and where you can pickup your meal.
+
+3. Name the ingredients used in the Bool Street Noods Original.
+
+4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
 
 ### Participant 5 (Final Submission)
