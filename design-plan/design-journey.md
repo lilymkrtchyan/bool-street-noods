@@ -780,7 +780,6 @@ Meeting Minutes:
 
 The user found most answers to all the questions with ease. The only portion the user struggled with was figuring out which part of the dropdown menu to click to see the details about each dish. The user also looked on the about us page before the home page to find the contact us information.
 
-- User 2: They had no problem with the website.
 - User 3: Felt like the pickup page is not informative enough.
 - User 4: The order of the nav bar could be organized in a more intuitive way.
 - User 5: Noticed spelling typos in the menu page.
@@ -790,20 +789,32 @@ The user found most answers to all the questions with ease. The only portion the
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    tell us about the participant:
+
+    My participant is a junior, he is an international student from Armenian double majoring in Economics and Statistics.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes
 
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+participant user test notes
+
+Task 1: The participant starts at the home page, opens the navigation bar and navigates to the "Menu" page. The particpant reads out the section of the menu that is titled "Main Dishes." The participant clicks the arrows and reads out the descriptions. He did not have any difficulties with this task.
+
+Task 2: The participant starts at the "Home" page. He then goes to the navigation bar and chooses the "Pick up" page. He finds the information there.
+
+Task 3: The participant naviagates to the "Menu" page, uses the accordion for the "Bool Street Noods Original" and reads the description.
+
+Task 4: The participant reads the "Home" page, finds out the "Contact Us" section and states that that's the main contacting way.
+
+Throughout all the tasks the participant did not have any difficulty navigating the tasks and finding the necessary information.
 
 
 ### Participant 3 (Final Submission)
@@ -887,7 +898,7 @@ Task 2:
 >She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
 
 Task 3:
-> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were. 
+> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
 
 Task 4:
 >She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
