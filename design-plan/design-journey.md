@@ -820,20 +820,31 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    My participant is a sophomore Cornell university student studying Human Development. 
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+Task 1:
+>She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
+
+Task 2:
+>She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
+
+Task 3:
+> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
+
+Task 4:
+>She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
+
 
 
 ### Participant 4 (Final Submission)
@@ -887,23 +898,6 @@ TODO: participant user test notes
 > When conducting user testing, you should take notes during the test.
 
 The user completed all four tasks with ease. He did not spend much time thinking about a task or struggling to navigate through the website. The user commented on certain spelling errors in the menu page of the website.
-
-
-### Participant 5 -- Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test.
-
-Task 1:
->She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
-
-Task 2:
->She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
-
-Task 3:
-> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
-
-Task 4:
->She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
-
 
 
 ## Website Revision Based on User Testing (Final Submission)
