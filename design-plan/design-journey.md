@@ -869,11 +869,11 @@ She first clicked on the About Us page but after not finding any contact methods
 
 2. Pretend that you just made an order on the website. Find when and where you can pickup your meal.
 
-    The user clicked on the pick-up page on the navigation bar and discovered that you can pick-up orders every Sunday from 5 PM to 7:30 PM in 15 minute intervals in 108 Bryant ave.
+    The user clicked on the pick-up page on the navigation bar and discovered that you can pick-up orders every Sunday from 5 PM to 7:30 PM in 15 minute intervals in 108 Bryant ave. However, the user felt as if the intervals could be further specified for the sake of clarity.
 
 3. Name the ingredients used in the Bool Street Noods Original.
 
-    The user clicked on the menu page on the navigation bar and immediately saw the Bool Street Noods Original listing. He the clicked on the dropdown button for that dish and found that the ingredients include noodles, sauteed beef, mixed vegetables, and spicy Chinese chili oil.
+    The user clicked on the menu page on the navigation bar and immediately saw the Bool Street Noods Original listing. He then clicked on the dropdown button for that dish and found that the ingredients include noodles, sauteed beef, mixed vegetables, and spicy Chinese chili oil.
 
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
