@@ -233,7 +233,7 @@ ul.nav > li{
 
 /*Phone Screen Styling*/
 
-  @media (max-width: 600px) {
+  @media (max-width: 760px) {
     /*Home Page*/
     .row {
       flex-direction: column;
