@@ -859,12 +859,19 @@ TODO: participant user test notes
 
 1. Find the main dishes of the restaurant on the website.
 
+    The user clicked on the menu page on the navigation bar and went directly to the main dish list on the page and clicked on the dropdowns for each.
+
 2. Pretend that you just made an order on the website. Find when and where you can pickup your meal.
+
+    The user clicked on the pick-up page on the navigation bar and discovered that you can pick-up orders every Sunday from 5 PM to 7:30 PM in 15 minute intervals in 108 Bryant ave.
 
 3. Name the ingredients used in the Bool Street Noods Original.
 
+    The user clicked on the menu page on the navigation bar and immediately saw the Bool Street Noods Original listing. He the clicked on the dropdown button for that dish and found that the ingredients include noodles, sauteed beef, mixed vegetables, and spicy Chinese chili oil.
+
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
+     pressed on the home page on the navigation bar and scrolled all the way down to the Contact Us subheading. He then clicked on the hyperlink that leads to the Bool Street Noods Instagram page.
 
 ### Participant 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
