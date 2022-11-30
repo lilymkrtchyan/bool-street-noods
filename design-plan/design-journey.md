@@ -905,6 +905,8 @@ The user completed all four tasks with ease. He did not spend much time thinking
 From user testing, we found certain changes to make to the website to improve upon its usability and user-friendliness
 - Adding a hover feature to the buttons on the dropdown feature on the menu page
 - Adding a contact us information section on the about us page in addition to the home page
+- We added specific pick-up time intervals in the pick-up page
+- We added bullet points to the various the sides and drinks on the menu page
 - Correcting a few spelling typos on the menu section of the website
 
 
