@@ -759,8 +759,6 @@ Meeting Minutes:
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
-
 
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -829,7 +827,20 @@ TODO: participant user test notes
 TODO: participant user test notes
 
 
-TODO: add more participants if necessary
+
+### Participant 4 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    TODO: tell us about the participant
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    TODO: (Yes / No)
 
 ### Participant 4 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
@@ -837,15 +848,25 @@ TODO: add more participants if necessary
 TODO: participant user test notes
 
 
-TODO: add more participants if necessary
+### Participant 5 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    My participant is Dylan Retino. He is a junior at Cornell University studying Computer Science in the Engineering School. Dylan lives in collegetown on Eddy Street and says he orders out approximately three to four times a week.
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+   Yes, my participant belongs to the audience of my website as he is a Cornell student who lives in Collegetown and orders out food occasionally.
 
 ### Participant 5 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+The user completed all four tasks with ease. He did not spend much time thinking about a task or struggling to navigate through the website. The user commented on certain spelling errors in the menu page of the website.
 
-
-TODO: add more participants if necessary
 
 
 ## Website Revision Based on User Testing (Final Submission)
