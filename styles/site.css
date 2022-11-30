@@ -63,7 +63,6 @@
   border: dashed 4px darkred;
   border-radius: 10px;
   border-right: none;
-
 }
 
 .row1 div {
@@ -233,7 +232,7 @@ ul.nav > li{
 
 /*Phone Screen Styling*/
 
-  @media (max-width: 760px) {
+  @media (max-width: 800px) {
     /*Home Page*/
     .row {
       flex-direction: column;
@@ -298,6 +297,19 @@ ul.nav > li{
     .row2 div{
       border: none;
       padding: 0;
+    }
+
+    .row1 #main_dish {
+      width: 100%;
+    }
+    .row1 #sauces {
+      width: 100%;
+    }
+    .row1 #add_protein {
+      width: 100%;
+    }
+    .row1 #sauces {
+      width: 100%;
     }
 
 }
