@@ -834,17 +834,16 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 > When conducting user testing, you should take notes during the test.
 
 Task 1:
->She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
+She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
 
 Task 2:
->She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
+She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
 
 Task 3:
 > They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were. However, they did note how the other sections such as Add Protein and Sides did not have any format such as bullet points while the Main Dishes and Sauces did, and they felt that it was confusing as at first glance as it seemed like text content and not additional menu items was on the page.
 
 Task 4:
->She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
-
+She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
 
 
 ### Participant 4 (Final Submission)
@@ -870,15 +869,15 @@ Task 4:
 
 2. Pretend that you just made an order on the website. Find when and where you can pickup your meal.
 
-    The user clicked on the pick-up page on the navigation bar and discovered that you can pick-up orders every Sunday from 5 PM to 7:30 PM in 15 minute intervals in 108 Bryant ave.
+    The user clicked on the pick-up page on the navigation bar and discovered that you can pick-up orders every Sunday from 5 PM to 7:30 PM in 15 minute intervals in 108 Bryant ave. However, the user felt as if the intervals could be further specified for the sake of clarity.
 
 3. Name the ingredients used in the Bool Street Noods Original.
 
-    The user clicked on the menu page on the navigation bar and immediately saw the Bool Street Noods Original listing. He the clicked on the dropdown button for that dish and found that the ingredients include noodles, sauteed beef, mixed vegetables, and spicy Chinese chili oil.
+    The user clicked on the menu page on the navigation bar and immediately saw the Bool Street Noods Original listing. He then clicked on the dropdown button for that dish and found that the ingredients include noodles, sauteed beef, mixed vegetables, and spicy Chinese chili oil.
 
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
-     pressed on the home page on the navigation bar and scrolled all the way down to the Contact Us subheading. He then clicked on the hyperlink that leads to the Bool Street Noods Instagram page.
+    He pressed on the home page on the navigation bar and scrolled all the way down to the Contact Us subheading. He then clicked on the hyperlink that leads to the Bool Street Noods Instagram page.
 
 ### Participant 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
