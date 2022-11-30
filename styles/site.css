@@ -214,10 +214,6 @@ ul.nav > li{
     margin: 0em;
   }
 
-  #dropdown-options {
-    background-color: #F67280;
-  }
-
   #dropdown-options a{
     font-size: 10pt;
     font-weight: bold;
@@ -230,10 +226,10 @@ ul.nav > li{
     color: #000000;
   }
 
-  #dropdown-options a:focus,
-  #dropdown-options a:hover,
-  #dropdown-options a:active {
-    color: #fff;
+  #dropdown-pages a:focus,
+  #dropdown-pages a:hover,
+  #dropdown-pages a:active {
+    color: rgb(190, 57, 57);
   }
 
 
