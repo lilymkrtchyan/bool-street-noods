@@ -17,8 +17,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-Our client is Bool Street Noods. They are a student run noodle company that runs
-in Collegetown.
+Our client is Bool Street Noods. They are a student run noodle company that runs in Collegetown.
 
 This client meets the client rules as they are a small business that currently operate with a wix website that is not really used by the company as they mostly function through social media platforms. They have informed us that they would like a website that relaysinformation to students  and customers and also understand the limitations of this project in terms of including non-static elements. Furthermore, none of the team members are part of this organization as we do not work for or with bool street noods.
 
@@ -416,9 +415,9 @@ Goal 4: To get contact information and payment information
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Nodes originated in Cornell and is thus advertised among mainly Cornell students.
+The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Noods originated in Cornell and is thus advertised among mainly Cornell students.
 
-Our site's updated audience are Cornell students who order out occasionally/
+Our site's updated audience are Cornell students who order out occasionally and would choose to order food in collegetown. This is a cohesive audience as Bool Street Noods is a noodle shop that is advertised mainly for students in the Cornell community who are looking for cheap and tasy food options to order from.
 
 ## Website Design Exploration (Milestone 2)
 
