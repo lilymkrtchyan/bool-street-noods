@@ -326,3 +326,7 @@ ul.nav > li{
 #dish7:hover {
   border: solid rgb(46, 40, 30) 3px;
 }
+
+#instalink:hover {
+  color:black;
+}
