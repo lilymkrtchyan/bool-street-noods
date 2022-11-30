@@ -750,11 +750,14 @@ Meeting Minutes:
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. Locate the pickup location on the website.
+1. Find the main dishes of the restaurant on the website.
 
-2. Find the main dishes of the restaurant.
+2. Pretend that you just made an order on the website. Find when and where you can pickup your meal.
 
-3. Order a full meal.
+3. Name the ingredients used in the Bool Street Noods Original.
+
+4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
+
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
