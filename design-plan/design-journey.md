@@ -862,9 +862,9 @@ From user testing, we found certain changes to make to the website to improve up
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-- Luis
-- Arya
-- Lily
+- Luis Miguel Sy Malenab
+- Arya Ramkumar
+- Lili Mkrtchyan
 - Kaylah
 - Guia
 
