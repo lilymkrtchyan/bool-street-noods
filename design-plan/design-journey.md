@@ -418,6 +418,8 @@ Goal 4: To get contact information and payment information
 
 The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Nodes originated in Cornell and is thus advertised among mainly Cornell students.
 
+Our site's updated audience are Cornell students who order out occasionally/
+
 ## Website Design Exploration (Milestone 2)
 
 Identify three websites (preferably static websites) that exist today on the web to draw inspiration from. Please select websites that are similar to the website you wish to create.
