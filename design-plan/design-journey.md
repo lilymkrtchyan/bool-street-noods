@@ -820,7 +820,7 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    My participant is a sophomore Cornell university student studying Human Development. 
+    My participant is a sophomore Cornell university student studying Human Development.
 
 
 2. Does the user belong to your audience of the site?
@@ -878,7 +878,7 @@ Task 4:
 
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
-     pressed on the home page on the navigation bar and scrolled all the way down to the Contact Us subheading. He then clicked on the hyperlink that leads to the Bool Street Noods Instagram page.
+    He pressed on the home page on the navigation bar and scrolled all the way down to the Contact Us subheading. He then clicked on the hyperlink that leads to the Bool Street Noods Instagram page.
 
 ### Participant 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
