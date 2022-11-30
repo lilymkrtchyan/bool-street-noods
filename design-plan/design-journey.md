@@ -834,17 +834,16 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 > When conducting user testing, you should take notes during the test.
 
 Task 1:
->She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
+She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
 
 Task 2:
->She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
+She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
 
 Task 3:
-> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
+They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
 
 Task 4:
->She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
-
+She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
 
 
 ### Participant 4 (Final Submission)
