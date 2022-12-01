@@ -186,7 +186,7 @@ ul.nav > li{
 .foundingstory {
     border: double 8px darkred;
     border-radius: 25px;
-    justify-self: center;
+    /* justify-self: center; */
     margin-left: 25%;
 }
 
