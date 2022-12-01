@@ -415,7 +415,7 @@ Goal 4: To get contact information and payment information
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Noods originated in Cornell and is thus advertised among mainly Cornell students.
+The site's audience is Cornell students living in Collegetown, Ithaca. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Noods originated in Cornell and is thus advertised among mainly Cornell students.
 
 Our site's updated audience are Cornell students who order out occasionally and would choose to order food in collegetown. This is a cohesive audience as Bool Street Noods is a noodle shop that is advertised mainly for students in the Cornell community who are looking for cheap and tasy food options to order from.
 
