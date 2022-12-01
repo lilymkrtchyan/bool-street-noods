@@ -918,8 +918,8 @@ From user testing, we found certain changes to make to the website to improve up
 - Luis Miguel Sy Malenab
 - Arya Ramkumar
 - Lili Mkrtchyan
-- Kaylah
-- Guia
+- Kaylah Nicholson
+- Guia Quagini
 
 
 ### Reference Resources (Final Submission)
