@@ -38,6 +38,11 @@
 }
 
 /*Menu Page*/
+
+h4 {
+  font-weight: bold;
+}
+
 .hidden{
   display: none;
 }
@@ -60,15 +65,14 @@
 .row1 {
   display: flex;
   flex-direction: row;
-  border: dashed 4px darkred;
+  border: double 4px darkred;
   border-radius: 10px;
   border-right: none;
-
 }
 
 .row1 div {
   margin-right: auto;
-  border: dashed 4px darkred;
+  border: double 4px darkred;
   border-top: none;
   border-bottom: none;
   border-left: none;
@@ -101,7 +105,7 @@
 .row2 {
   display: flex;
   flex-direction: row;
-  border: dashed 4px darkred;
+  border: double 4px darkred;
   border-radius: 10px;
   border-right: none;
   border-top: none;
@@ -110,7 +114,7 @@
 
 .row2 div{
   margin-right: auto;
-  border:dashed 4px darkred;
+  border:double 4px darkred;
   border-top: none;
   border-bottom: none;
   border-left: none;
@@ -227,13 +231,13 @@ ul.nav > li{
   #dropdown-pages a:focus,
   #dropdown-pages a:hover,
   #dropdown-pages a:active {
-    color: rgb(190, 57, 57);
+    color: rgb(21, 6, 6);
   }
 
 
 /*Phone Screen Styling*/
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     /*Home Page*/
     .row {
       flex-direction: column;
@@ -298,6 +302,19 @@ ul.nav > li{
     .row2 div{
       border: none;
       padding: 0;
+    }
+
+    .row1 #main_dish {
+      width: 100%;
+    }
+    .row1 #sauces {
+      width: 100%;
+    }
+    .row1 #add_protein {
+      width: 100%;
+    }
+    .row1 #sauces {
+      width: 100%;
     }
 
 }

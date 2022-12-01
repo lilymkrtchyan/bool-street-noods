@@ -415,7 +415,7 @@ Goal 4: To get contact information and payment information
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-The site's audience is Cornell students. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Noods originated in Cornell and is thus advertised among mainly Cornell students.
+The site's audience is Cornell students living in Collegetown, Ithaca. This audience is cohesive because Bool Street Noods advertises themselves as an affordable food option for Cornell students as Bool Street Noods originated in Cornell and is thus advertised among mainly Cornell students.
 
 Our site's updated audience are Cornell students who order out occasionally and would choose to order food in collegetown. This is a cohesive audience as Bool Street Noods is a noodle shop that is advertised mainly for students in the Cornell community who are looking for cheap and tasy food options to order from.
 
@@ -760,7 +760,6 @@ Meeting Minutes:
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
 
-
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -781,16 +780,11 @@ Meeting Minutes:
 
 The user found most answers to all the questions with ease. The only portion the user struggled with was figuring out which part of the dropdown menu to click to see the details about each dish. The user also looked on the about us page before the home page to find the contact us information.
 
-- User 3: Felt like the pickup page is not informative enough.
-- User 4: The order of the nav bar could be organized in a more intuitive way.
-- User 5: Noticed spelling typos in the menu page.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-    tell us about the participant:
 
     My participant is a junior, he is an international student from Armenian double majoring in Economics and Statistics.
 
@@ -805,13 +799,12 @@ The user found most answers to all the questions with ease. The only portion the
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-participant user test notes
 
 Task 1: The participant starts at the home page, opens the navigation bar and navigates to the "Menu" page. The particpant reads out the section of the menu that is titled "Main Dishes." The participant clicks the arrows and reads out the descriptions. He did not have any difficulties with this task.
 
 Task 2: The participant starts at the "Home" page. He then goes to the navigation bar and chooses the "Pick up" page. He finds the information there.
 
-Task 3: The participant naviagates to the "Menu" page, uses the accordion for the "Bool Street Noods Original" and reads the description.
+Task 3: The participant naviagates to the "Menu" page, uses the accordion for the "Bool Street Noods Original" and reads the description. They mentioned that they were not entirely sure the exact ingredients in the dish outside of the description and how a direct allergens indication would be helpful.
 
 Task 4: The participant reads the "Home" page, finds out the "Contact Us" section and states that that's the main contacting way.
 
@@ -823,21 +816,30 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    My participant is a sophomore Cornell university student studying Human Development.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, they are a Cornell University student living in Collegetown.
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+Task 1:
+>She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
 
+Task 2:
+>She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
+
+Task 3:
+> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were. However, they did note how the other sections such as Add Protein and Sides did not have any format such as bullet points while the Main Dishes and Sauces did, and they felt that it was confusing as at first glance as it seemed like text content and not additional menu items was on the page.
+
+Task 4:
+> She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to very quickly find the contact information.
 
 
 ### Participant 4 (Final Submission)
@@ -845,20 +847,33 @@ TODO: participant user test notes
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    Participant 4's name is Junior Lin. He is a junior at Cornell University studying HBHS. He lives in Collegetown and eats in Collegetown once every other week.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, because he is a student at Cornell University that lives in Collegetown, Ithaca.
 
 ### Participant 4 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Find the main dishes of the restaurant on the website.
 
+    The user clicked on the menu page on the navigation bar and went directly to the main dish list on the page and clicked on the dropdowns for each.
+
+2. Pretend that you just made an order on the website. Find when and where you can pickup your meal.
+
+    The user clicked on the pick-up page on the navigation bar and discovered that you can pick-up orders every Sunday from 5 PM to 7:30 PM in 15 minute intervals in 108 Bryant ave. However, the user felt as if the intervals could be further specified for the sake of clarity.
+
+3. Name the ingredients used in the Bool Street Noods Original.
+
+    The user clicked on the menu page on the navigation bar and immediately saw the Bool Street Noods Original listing. He then clicked on the dropdown button for that dish and found that the ingredients include noodles, sauteed beef, mixed vegetables, and spicy Chinese chili oil.
+
+4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
+
+    He pressed on the home page on the navigation bar and scrolled all the way down to the Contact Us subheading. He then clicked on the hyperlink that leads to the Bool Street Noods Instagram page.
 
 ### Participant 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -880,39 +895,16 @@ TODO: participant user test notes
 The user completed all four tasks with ease. He did not spend much time thinking about a task or struggling to navigate through the website. The user commented on certain spelling errors in the menu page of the website.
 
 
-### Participant 4 -- Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test.
-
-TODO: participant user test notes
-
-
-TODO: add more participants if necessary
-
-### Participant 5 -- Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test.
-
-
-Task 1:
->She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
-
-Task 2:
->She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
-
-Task 3:
-> They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were.
-
-Task 4:
->She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
-
-
-
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-From user testing, we found certain changes to make to the website to improve upon its usability and user-friendliness
+From user testing, we found certain changes to make to the website to improve upon its usability and user-friendliness:
 - Adding a hover feature to the buttons on the dropdown feature on the menu page
 - Adding a contact us information section on the about us page in addition to the home page
+- We added specific pick-up time intervals in the pick-up page
+- We added bullet points to the various the sides and drinks on the menu page
 - Correcting a few spelling typos on the menu section of the website
+- Added Allergens list to the Main Dishes and Sauces sections
 
 
 ## Grading (Final Submission)
@@ -923,8 +915,8 @@ From user testing, we found certain changes to make to the website to improve up
 - Luis Miguel Sy Malenab
 - Arya Ramkumar
 - Lili Mkrtchyan
-- Kaylah
-- Guia
+- Kaylah Nicholson
+- Guia Quagini
 
 
 ### Reference Resources (Final Submission)
