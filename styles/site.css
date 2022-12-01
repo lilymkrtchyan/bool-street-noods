@@ -38,6 +38,11 @@
 }
 
 /*Menu Page*/
+
+h4 {
+  font-weight: bold;
+}
+
 .hidden{
   display: none;
 }
