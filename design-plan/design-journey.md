@@ -760,7 +760,6 @@ Meeting Minutes:
 4. Find a possible contact method to reach out to the people who run Bool Streets Noods.
 
 
-
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -787,8 +786,6 @@ The user found most answers to all the questions with ease. The only portion the
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    tell us about the participant:
-
     My participant is a junior, he is an international student from Armenian double majoring in Economics and Statistics.
 
 
@@ -802,13 +799,12 @@ The user found most answers to all the questions with ease. The only portion the
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-participant user test notes
 
 Task 1: The participant starts at the home page, opens the navigation bar and navigates to the "Menu" page. The particpant reads out the section of the menu that is titled "Main Dishes." The participant clicks the arrows and reads out the descriptions. He did not have any difficulties with this task.
 
 Task 2: The participant starts at the "Home" page. He then goes to the navigation bar and chooses the "Pick up" page. He finds the information there.
 
-Task 3: The participant naviagates to the "Menu" page, uses the accordion for the "Bool Street Noods Original" and reads the description.
+Task 3: The participant naviagates to the "Menu" page, uses the accordion for the "Bool Street Noods Original" and reads the description. They mentioned that they were not entirely sure the exact ingredients in the dish outside of the description and how a direct allergens indication would be helpful.
 
 Task 4: The participant reads the "Home" page, finds out the "Contact Us" section and states that that's the main contacting way.
 
@@ -834,16 +830,16 @@ Throughout all the tasks the participant did not have any difficulty navigating 
 > When conducting user testing, you should take notes during the test.
 
 Task 1:
-She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
+>She scrolled down the homepage before clicking on the Menu page on the navigation bar and seeing the Main Dishes header.
 
 Task 2:
-She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
+>She clicked on the Pick-up page on the navigation bar and was able to quickly identify where and when to go for picking up food.
 
 Task 3:
 > They clicked on the Menu page in the navigation bar and then was able to easily see the Main Dishes section and click on the Bool Street Noods Original food to find out what the ingredients were. However, they did note how the other sections such as Add Protein and Sides did not have any format such as bullet points while the Main Dishes and Sauces did, and they felt that it was confusing as at first glance as it seemed like text content and not additional menu items was on the page.
 
 Task 4:
-She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to find the contact information.
+> She first clicked on the About Us page but after not finding any contact methods, then clicked on the Homepage and was able to very quickly find the contact information.
 
 
 ### Participant 4 (Final Submission)
@@ -902,12 +898,13 @@ The user completed all four tasks with ease. He did not spend much time thinking
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-From user testing, we found certain changes to make to the website to improve upon its usability and user-friendliness
+From user testing, we found certain changes to make to the website to improve upon its usability and user-friendliness:
 - Adding a hover feature to the buttons on the dropdown feature on the menu page
 - Adding a contact us information section on the about us page in addition to the home page
 - We added specific pick-up time intervals in the pick-up page
 - We added bullet points to the various the sides and drinks on the menu page
 - Correcting a few spelling typos on the menu section of the website
+- Added Allergens list to the Main Dishes and Sauces sections
 
 
 ## Grading (Final Submission)
