@@ -598,8 +598,13 @@ Layout 3: In this last sketch, in the wide screen part we are trying to provide 
 
 **Narrow (Mobile) Design:**
 
+Old Homepage:
 ![home](homenarrowsketch.JPG)
 The home page for the narrow screen uses a hamburger menu to make use of the limited space. The narrow screen also still employs a carousel that will stretch to accomodate the width of the smaller screen.
+
+Updated Homepage:
+![newhome](new_home_narrow.jpg)
+This home page has the same features as the former except without a carousel and instead has the 3 homepage images of food organized in a column to fit the narrower screen. 
 
 ![menu](menuScetchNarrow.png)
 The menu page for the narrow screen uses a hamburger menu. For the better use of the limited space, the contents of the menu are one on top of the other, as opposed to the contents of the menu in a wide screen that are next to each other.
@@ -615,8 +620,13 @@ The about page has the logo and name at the top followed by the navigation bar i
 
 **Wide (Wide) Design:**
 
+Old Homepage:
 ![home](homewidesketch.JPG)
-The homem page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience.
+The home page has the navigation bar as a horizontal bar to make use of the larger amount of space. The carousel on the home page is also made larger to make use of the extra space to further pop out to the audience.
+
+Updated Homepage:
+![newhome](new_home_wide.jpg)
+This home page has the same features as the former except without a carousel and instead has the 3 homepage images of food organized in a row.
 
 ![menu](menuScetchWide.png)
 In the wide screen of the menu page the navigation is a horizontal bar instead of a hamburger menu that is implemented for the narrow screen. Because there is so much space on the screen the different sections of menu that are related to one another are put next to each other.
